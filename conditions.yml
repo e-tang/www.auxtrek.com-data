@@ -1,0 +1,28 @@
+- image: /resources/17/background17.png
+  title: Forex
+  date: "&nbsp;"
+  abstract: The foreign exchange market (forex, FX, or currency market) is a worldwide, decentralised, over-the-counter market for the trading of currencies. 
+  link:
+    en : /products/forex.html
+    zh : /zh/products/forex.html
+- image: /resources/17/background17.png
+  title: CFD
+  date: "&nbsp;"
+  abstract: "*CFDs are cash instruments and subject to daily financing fees and dividends."
+  link:
+    en : /products/cfd.html
+    zh : /zh/products/cfd.html
+- image: /resources/17/background17.png
+  title: Cryptocurrency
+  date: "&nbsp;"
+  abstract: Trade the world's newest asset class as a CFD and speculate on whether it will rise or fall in value without taking ownership of the digital asset.
+  link:
+    en : /products/crypto.html
+    zh : /zh/products/crypto.html
+- image: /resources/17/background17.png
+  title: Trading Conditions
+  date: "&nbsp;"
+  abstract: Trading conditions are the basic information about the products, such as the leverage , spread, margin level and  market hours.
+  link:
+    en : /resources/pdfs/trading conditions-en.pdf
+    zh : /resources/pdfs/trading conditions-zh.pdf

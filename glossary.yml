@@ -3,7 +3,7 @@
   - name: Arbitrage
     desc: A trading strategy involving buying and selling of the same financial instrument at the same time whereby due to price differences, one can obtain a risk free profit.
   - name: Ask Price
-    desc: The lowest price that a seller is willing to sell for a security.
+    desc: The lowest price that a seller is willing to sell a security.
   - name: At Best
     desc: An instruction given to a dealer to buy or sell at the best rate that is currently available in the market.
   - name: At the Price Stop-loss Order
@@ -14,7 +14,7 @@
 - group: B
   terms: 
   - name: Balance
-    desc: Balance is the amount of your capital left with the broker. Even when there is a trade going on, this balance amount will not fluctuate along with the floating profit or loss. If you have opened a position and liquidated it, the amount will be changed in accordance to your profit or loss amount.
+    desc: Balance is the amount of your capital left with the broker. Even when there is a trade in progress, this balance amount will not fluctuate along with the floating profit or loss. If you have opened a position and liquidated it, the amount will be changed in accordance to your profit or loss amount.
   - name: Bank Rate
     desc: The rate at which a central bank is prepared to lend money to its domestic banking system.
   - name: Bar Chart
@@ -26,7 +26,7 @@
   - name: Basis Point
     desc: One per cent of one per cent (0.0001). It is commonly used as a measure of unit for interest rates and other percentages in finance.
   - name: Basis Trading
-    desc: It is a trading strategy where a trader takes opposite positions in the cash and futures market with the intention of profiting from favourable movements in the basis.
+    desc: Trading strategy where a trader takes opposite positions in the cash and futures market with the intention of profiting from favourable movements in the basis.
   - name: Bearish
     desc: A market view believes that prices will decline.
   - name: Bear Market
@@ -38,7 +38,7 @@
   - name: Bullish
     desc: A market view believes that prices will rise.
   - name: Bullion
-    desc: "Bullions are gold or silver that is in the form of bars and ingots of which have to be at least 99.5% pure.
+    desc: "Bullions are gold or silver that are in the form of bars and ingots of which have to be at least 99.5% pure.
 "
   - name: Bull Market
     desc: A market characterized by rising prices.
@@ -48,7 +48,7 @@
     desc: "Candlestick Chart is a type of chart that contains a \"candlestick\" for each period it represents. The bottom and top of the box represent the opening and closing while the vertical lines coming out of the boxes represent the lowest and highest price. If the candlestick is showing a rising trend, then the opening price is at the bottom of the box and the closing price is at the top of the box. For a decreasing price trend, the location of the opening and closing price are inverted.
 "
   - name: Chart Period
-    desc: "A tool to view the underlying securities’ movements according to different time frames. When a period is selected, the corresponding changes will appear in the active chart. The client terminal has nine chart periods (M1 - indicates one-minute chart; M5 - indicates five-minutes chart; M30 - indicates thirty-minutes chart; H1 - indicates one-hour chart; H4 - indicates four-hours chart; D1 - indicates one-day chart; W1 - indicates one-week chart; MN - indicates one-month chart).
+    desc: "A tool to view the underlying securities’ movements according to different time frames. When a period is selected, the corresponding changes will appear in the active chart. The client terminal has nine chart periods (M1 - indicates one-minute chart; M5 - indicates five-minute chart; M30 - indicates thirty-minute chart; H1 - indicates one-hour chart; H4 - indicates four-hour chart; D1 - indicates one-day chart; W1 - indicates one-week chart; MN - indicates one-month chart).
 "
   - name: Commission
     desc: The fee that a broker may charge clients for a trade or transaction.
@@ -59,21 +59,21 @@
   - name: Contract Month
     desc: The month in which a futures contract expires.
   - name: Contract Size
-    desc: Contract Size is the deliverable quantity of a product. The size and the units of measure for each product differs from one another.
+    desc: Contract Size is the deliverable quantity of a product. The size and the units of measure for each product differ from one another.
   - name: Contract Value
-    desc: "Contract Value is the value of an order that moves with the market price. It is largely dependent on three things, the volume the client is purchasing, the contract size and the current market price of the product. It is found by the formula:
+    desc: "Contract Value is the value of an order that moves with the market price. It is largely dependent on three things; the volume the client is purchasing, the contract size and the current market price of the product. It is found by the formula:
 "
   - name: Contract Value = (market price X volume X contract size)
     desc: Currency Basket
-        It is a selected group of currencies in which the weighted average is used as a measure of the value or the amount of an obligation, it functions as a benchmark for regional currency movements.
+        A selected group of currencies in which the weighted average is used as a measure of the value or the amount of an obligation. It functions as a benchmark for regional currency movements.
 - group: D
   terms: 
   - name: Delivery Date
     desc: The final date by which the underlying commodity for a futures contract must be delivered in order for the terms of the contract to be fulfilled.
   - name: Derivatives
-    desc: It is a security which itself is a contract between two or more parties where its price is dependent upon or derived from one or more underlying assets.
+    desc: A security which itself is a contract between two or more parties where its price is dependent upon or derived from one or more underlying assets.
   - name: Direct Quote
-    desc: Where the domestic currency is a variable amount and the foreign currency is fixed at one unit.
+    desc: The domestic currency is a variable amount and the foreign currency is fixed at one unit.
 - group: E
   terms: 
   - name: Equity
@@ -83,7 +83,7 @@
   - name: Execution
     desc: "An execution is the completion of a buy or sell order for a security. There are three basic order execution modes:
         1. Instant Execution
-        In this mode, the order is executed at the price offered to the broker. At sending the order to be executed, terminal sets the current prices in the order. If broker accepts the prices, the order will be executed. If not, \"Requote\" will occur.
+        In this mode, the order is executed at the price offered to the broker. At sending the order to be executed, terminal sets the current prices in the order. If the broker accepts the prices, the order will be executed. If not, \"Requote\" will occur.
         2. Execution on Request
         In this mode, prices for a certain market order are requested from the broker before the order is sent. After the prices have been received, order at the given price can be either confirmed or rejected.
         3. Execution by Market
@@ -100,7 +100,7 @@
   - name: Fixed Spread
     desc: A fixed spread is where the difference between bid and ask of a security stays the same, even while the prices themselves are changing.
   - name: Floating Exchange Rate
-    desc: When the value of a currency is decided by the market forces dictating the demand and supply of that particular currency.
+    desc: When the value of a currency is decided by the market forces dictating the supply and demand of that particular currency.
   - name: Floating Spread
     desc: A floating spread is where the difference between bid and ask of a security constantly changes according to market supply and demand.
   - name: Forex
@@ -118,20 +118,20 @@
   - name: Good till Today (GTT)
     desc: Good till today or day order is an order that if not executed on the specific day (in this case the pending order day) is automatically cancelled.
   - name: Global Variables
-    desc: To provide prompt transfer of moderate amounts of information among experts, as well as organize conflict-free simultaneous working of several experts.
+    desc: To provide prompt transfer of moderate amounts of information among experts, as well as organise conflict-free, simultaneous working of several experts.
 - group: H
   terms: 
   - name: Hedging
-    desc: Hedging is a technique to reduce the risk of adverse price movements in an asset. Normally, a hedging consists of taking an offsetting position in the opposite direction for the same product.
+    desc: Hedging is a technique to reduce the risk of adverse price movements in an asset. Normally, hedging consists of taking an offsetting position in the opposite direction for the same product.
 - group: I
   terms: 
   - name: Indicators
     desc: |
         Indicators are statistics used to measure past and current conditions as well as to forecast financial or economic trends.
         1. Economic Indicators
-        They are statistical metrics used to measure the growth or contraction of the economy as a whole or sectors within the economy.
+        Statistical metrics used to measure the growth or contraction of the economy as a whole or sectors within the economy.
         2. Technical Indicators
-        They are used extensively in technical analysis to predict changes in securities’ price patterns.
+        Used extensively in technical analysis to predict changes in securities’ price patterns.
   - name: Indirect Quote
     desc: Where the foreign currency is a variable amount and the domestic currency is fixed at one unit.
   - name: Initial Deposit
@@ -147,12 +147,12 @@
   - name: Last Notice Day
     desc: The final day that a futures contract may trade or be closed out before delivery of the underlying asset or cash settlement must occur. By the end of the last trading day, the contract holder must be prepared to accept delivery of the commodity, or settle in cash if the position is not closed.
   - name: Leverage
-    desc: "The ratio of the transaction size to the actual investment used for margin. Leverage allows a client to trade without putting up the full amount. Instead a margin amount is required. For example, 200:1 leverage, also known as 0.5% margin requirement, means $500 of equity can purchase a contract worth $100,000.
+    desc: "The ratio of the transaction size to the actual investment used for margin. Leverage allows a client to trade without putting up the full amount. Instead a margin amount is required. For example, 200:1 leverage, also known as 0.5% margin requirement, meaning $500 of equity can purchase a contract worth $100,000.
 "
   - name: Line Chart
-    desc: Line Chart is simple chart that mark data as a series of points connected to each other by a straight line.
+    desc: Line Chart is a simple chart that marks data as a series of points connected to each other by a straight line.
   - name: Long
-    desc: It is the buying of a security such as a commodity or currency with the expectation that the asset will rise in value.
+    desc: Buying of a security such as a commodity or currency with the expectation that the asset will rise in value.
   - name: Loonie
     desc: Slang for the Canada dollar.
 - group: M
@@ -163,13 +163,13 @@
 "
   - name: Margin level is the ratio of equity to margin.
     desc: 2. Margin Call
-        A margin call is a broker\'s demand on an investor to deposit additional money or securities so that the margin account is brought up to the minimum maintenance margin. Margin calls occur when your account value falls below a value calculated by the broker\'s particular formula.
+        A margin call is a broker's demand on an investor to deposit additional money or securities so that the margin account is brought up to the minimum maintenance margin. Margin calls occur when your account value falls below a value calculated by the broker's particular formula.
 - group: O
   terms: 
   - name: Open, High, Low, Close Line (OHLC Line)
-    desc: OHLC is a function in AUXTREK’s MT4 to show the current price’s Open, High, Low, Close respectively, it normally appears on the left top corner in the chart window.
+    desc: OHLC is a function in AUXTREK’s MT4 trading platform to show the current price’s Open, High, Low, Close respectively, it normally appears on the left top corner in the chart window.
   - name: One Click Trading
-    desc: "Traders on AUXTREK’s MT4 terminal can buy or sell with a single click without having to fill out clumsy order tickets. Stop loss and take profit orders can be entered at the same time as the market order and pre-defined order templates can be set allowing the scaling in and out of positions at pre-defined targets.
+    desc: "Traders on AUXTREK’s MT4 terminal can buy or sell with a single click without having to fill out clumsy or complex order tickets. Stop loss and take profit orders can be entered at the same time as the market order and pre-defined order templates can be set allowing the scaling in and out of positions at pre-defined targets.
 "
   - name: Order
     desc: "An order is an instruction to buy or sell on a trading venue such as a stock market, bond market, commodity market, or financial derivative market. There are two main types of orders:
@@ -178,9 +178,9 @@
         2. Pending Order
         A pending order is an order that has been entered into the trading platform, but will not be executed unless certain conditions are met.
         a. Buy Limit Order
-        Buy Limit Order is a trade request to buy at the Ask price that is equal to or lower than the market price. The current price level is higher than the value in the order. Usually this order is placed in anticipation of a price drop followed by a rebound.
+        Buy Limit Order is a trade request to buy at the Ask price that is equal to or lower than the market price. The current price level is higher than the value of the order. Usually this order is placed in anticipation of a price drop followed by a rebound.
         b. Buy Stop Order
-        Buy Stop Order is a trade request to buy at the Ask price that is equal to or higher than the market price. The current price level is lower than the value in the order. Usually this order is placed in anticipation of a continuous price rise.
+        Buy Stop Order is a trade request to buy at the Ask price that is equal to or higher than the market price. The current price level is lower than the value of the order. Usually this order is placed in anticipation of a continuous price rise.
         c. Sell Limit Order
         Sell Limit Order is a trade request to sell at the Bid price that is equal to or higher than the market price. The current price level is lower than the value in the order. Usually this order is placed in anticipation of a price rise followed by a fall back.
         d. Sell Stop Order
@@ -191,14 +191,14 @@
 - group: P
   terms: 
   - name: Pip
-    desc: A pip generally means the smallest movement in forex trading. For example, AUD/USD a move of 0.7700 to 0.7701 would be one pip. There are some exceptions, some currencies, such as Yen, one pip move would be 110.00 to 110.01.
+    desc: A pip generally means the smallest movement in forex trading. For example, AUD/USD - a move of 0.7700 to 0.7701 would be one pip. There are some exceptions, some currencies, such as Yen, one pip move would be 110.00 to 110.01.
   - name: Position
     desc: |
-        A financial term for a trade that is either still able to incur a profit or a loss (open position) or has been closed (closed position), it is a way for trader to hope making profits.
+        A financial term for a trade that is either still able to incur a profit or a loss (open position) or has been closed (closed position), it is the way that traders aim to make a profit.
         1. Closed Position
-        Executing a security transaction that is the exact opposite of an open position, so that profit and losses are realized and the trade is no longer active.
+        Executing a security transaction that is the exact opposite of an open position, so that profit and losses are realised and the trade is no longer active.
         2. Open Position
-        It is any trade that has been executed, but has yet to be closed.
+        Any trade that has been executed, but has yet to be closed.
 - group: Q
   terms: 
   - name: Quote
@@ -207,19 +207,19 @@
   terms: 
   - name: Risks
     desc: |
-        In financial trading, risks are the situations that an investment could lose money. Other risks including:
+        In financial trading, risks are the situations that an investment could lose money. Other risks include:
         1. Unforeseen Circumstances
-        If there are some situation beyond dealer’s control, such as, during period of significant market disturbance, it may be impractical or impossible to trade in relevant financial markets.
+        If there is some situation beyond a dealer’s control, such as, during periods of significant market disturbance, it may be impractical or impossible to trade in relevant financial markets.
         2. Market Volatility
         Foreign exchange and commodity markets are subject to many influences which may results in rapid price fluctuations. Because of this market volatility, there is no margin FX or CFD transaction or stop loss order which is available in AUXTREK’s MT4 platform that can be considered “ risk free ”.
         3. Leverage Risk
-        Trading Margin FX and CFDs involves a high degree of leverage, trader can use a relatively small initial margin which secures a significantly larger exposure to an underlying security, and however, the potential gain and loss is equally magnified when use leverage.
+        Trading Margin FX and CFDs involves a high degree of leverage. Traders can use a relatively small initial margin which secures a significantly larger exposure to an underlying security, however, the potential gain and loss is equally magnified when using leverage.
 - group: S
   terms: 
   - name: Short
-    desc: It is the selling of a security such as a commodity or currency with the expectation that the asset will fall in value.
+    desc: Selling of a security such as a commodity or currency with the expectation that the asset will fall in value.
   - name: Spot Price
-    desc: The price which reflects the product’s current value in the market.
+    desc: Price which reflects the product’s current value in the market.
   - name: Spot Contract
     desc: Spot Contract is a contract of buying or selling a commodity, security or currency for settlement (payment and delivery) on the spot date, which is normally two business days after the trade date. The settlement price (or rate) is called spot price (or spot rate).
   - name: Spread
@@ -227,11 +227,11 @@
   - name: Sterling
     desc: Slang for the British Pound.
   - name: Stop Loss Order
-    desc: Stop Loss Order is an order placed to close an open position when it reaches a certain unfavorable price. It is designed to limit trader’s loss on a position.
+    desc: Stop Loss Order is an order placed to close an open position when it reaches a certain unfavourable price. It is designed to limit trader’s loss on a position.
   - name: Stop Out
-    desc: Refers to the point at which margin has been reduced past its minimum level required by the broker which triggers the client’s largest losing position to be closed to release free margin. A margin call will occur before the stop out to demand on the client to bring his/her margin level up.
+    desc: Refers to the point at which margin has been reduced past its minimum level required by the broker which triggers the client’s largest losing position to be closed to release free margin. A margin call will occur before the stop out to demand the client bring their margin level up.
   - name: Swaps
-    desc: It is the interest that is earned or paid for holding a spot position overnight.
+    desc: Interest that is earned or paid for holding a spot position overnight.
   - name: Swiss
     desc: Slang for the Swiss Franc.
   - name: Symbol
@@ -239,12 +239,12 @@
 - group: T
   terms: 
   - name: Take Profit Order
-    desc: This is a pending order given instruction to the trading platform to execute/close a trade when it reaches a particular favorable level against current position, in order to lock in/realize a set amount of profit.
+    desc: This is a pending order giving instructions to the trading platform to execute/close a trade when it reaches a particular favourable level against current position in order to lock in/realise a set amount of profit.
   - name: Technical Analysis
     desc: Technical analysis is a security analysis methodology for forecasting the direction of prices through the study of past market data, primarily price and volume.
   - name: Tick
-    desc: A minimum change in price, up or down of any product, for example, in currency trading, one tick means 0.00001, with expectation of JPY which is 0.001.
+    desc: A minimum change in price, up or down of any product, for example, in currency trading, one tick means 0.00001, with exception of JPY which is 0.001.
   - name: Time
-    desc: All time frames shown on AUXTREK MT4 platform is in Greenwich Mean Time (GMT). Greenwich Mean Time is the same as Coordinate Universal Time (UTC).
+    desc: All time frames shown on AUXTREK MT4 platform are in Greenwich Mean Time (GMT). Greenwich Mean Time is the same as Coordinated Universal Time (UTC).
   - name: Trailing Stop Order
-    desc: A trailing stop order sets the stop price at a fixed distance from the market price with an attached \"trailing\" amount. As the market price movement is favourable, the stop price will follow by the trail amount, but if the market price movement is unfavourable, the stop loss price doesn\'t change, and a market order is submitted when the stop price is hit.
+    desc: A trailing stop order sets the stop price at a fixed distance from the market price with an attached \"trailing\" amount. As the market price movement is favourable, the stop price will follow the trail amount, but if the market price movement is unfavourable, the stop loss price doesn't change and a market order is submitted when the stop price is hit.

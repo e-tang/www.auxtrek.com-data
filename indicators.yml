@@ -10,19 +10,19 @@
   image: /resources/37/vector_576_19.png
 - title: Fast Copy MT4
   author: Pavel Kolchin
-  desc: 'The program allows to copy trades between different MetaTrader 5 and MetaTrader 4 accounts in any direction and amount quickly and easily.'
+  desc: 'The program allows you to copy trades between different MetaTrader 5 and MetaTrader 4 accounts in any direction and amount quickly and easily.'
   link: 'https://www.mql5.com/zh/market/product/18932'
   image: /resources/37/vector_576_25.png
 - title: SFX Risk Reward Indicator
   author: Somsri Sarkar
   desc: |
       Free Version to test on live market before buying. Free Version works only for EURUSD orders.
-      Note\: \'Arial Bold\' font should be installed in your operating system, specially on windows 10 server.
+      Note\: \'Arial Bold\' font should be installed in your operating system, especially on windows 10 server.
   link: 'https://www.mql5.com/zh/market/product/22168#!tab=tab_p_overview'
   image: /resources/37/vector_577_08.png
 - title: WaveTrend Momentum Oscillator
   author: Jay Jantz 
-  desc: 'WaveTrend Momentum Oscillator is an upgrade to the popular and easy-to-use WaveTrend Oscillator. The WaveTrend Momentum Oscillator adds a momentum component to the original WaveTrend calculation, in order to provide faster and more accurate entry points during trendy market conditions.'
+  desc: 'WaveTrend Momentum Oscillator is an upgrade to the popular and easy-to-use WaveTrend Oscillator. The WaveTrend Momentum Oscillator adds a momentum component to the original WaveTrend calculation, in order to provide faster and more accurate entry points during trending market conditions.'
   link: 'https://www.mql5.com/zh/market/product/19005'
   image: /resources/37/vector_577_09.png
 - title: Density Scalper
@@ -30,6 +30,6 @@
   desc: |
        Before you buy a night scalper please be aware of the risks involved:
         1) Past performance is no guarantee of future profitability (the EA could also make losses). 
-        2) The backtests shown (e.g. in screenshots) are highly optimized to find the best parameters but therefore results cannot be transferred to live trading.
+        2) The backtests shown (EG: in screenshots) are highly optimised to find the best parameters but therefore results cannot be transferred to live trading.
   link: 'https://www.mql5.com/zh/market/product/40941#!tab=tab_p_overview'  
   image: /resources/37/vector_577_12.png

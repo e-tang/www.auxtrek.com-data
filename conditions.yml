@@ -22,7 +22,7 @@
 - image: /images/content/Trading_Conditions.png
   title: Trading Conditions
   date: "&nbsp;"
-  abstract: Trading conditions are the basic information about the products, such as the leverage , spread, margin level and  market hours.
+  abstract: Trading conditions are basic information about the products, such as leverage, spread, margin level and  market hours.
   link:
     en : /resources/pdfs/trading conditions-en.pdf
     zh : /resources/pdfs/trading conditions-zh.pdf

@@ -1,63 +1,62 @@
-- q: "WHAT IS CFD TRADING"
+- q: "什么是差价合约交易"
   a: |
-        A contract for difference (or CFD) is a contract between two parties; LP is the market maker in this situation and will be the buyer to anyone selling and the seller to anyone buying. The seller will pay to the buyer the difference between the current value of an asset and its value at contract time. (If the difference is negative, then the buyer pays the seller.) In effect CFDs are financial derivatives that allow investors to take advantage of prices moving up (long positions) or prices moving down (short positions) on underlying financial instruments and are often used to speculate on those markets.
-        If the difference between the current and contract time value is negative, then the buyer will pay the seller.
-        If the difference is positive, then the seller will pay the buyer the difference in value.
-        There is...
-        No restriction on the entry or exit price of a CFD.
-        No time limit on when this exchange happens.
-        No restriction on buying or selling first.
-- q: "CFD TRADING EXAMPLE"
+        差价合约（或CFD）是指双方之间的合同；在这种情况下，LP是做市商，将成为任何出售者的买主和任何购买者的卖主。卖方将在合同时间向买方支付资产的当前价值与其价值之间的差额。 （如果差额为负，则买方向卖方付款。）实际上，差价合约是金融衍生产品，可让投资者利用基础金融工具的价格上涨（多头头寸）或价格下跌（空头头寸）的优势，并且通常是用来推测那场。
+        如果当前时间与合同时间之间的差为负，则买方将向卖方付款。
+        如果差额为正，则卖方将向买方支付差额。
+        这代表着....
+        差价合约的入场价或离场价没有限制。
+        此交换发生的时间没有时间限制。
+        没有先买后买的限制。
+- q: "CFD 交易的例子"
   a: |
-        CFDs are often traded on what is called leverage [don’t worry we’ll get to this a bit later on] to give traders more trading power, flexibility and opportunities. In the meantime, let’s just keep it simple with the following example&#58;
-        The Agreement&#58;
-        Person A believes Gold is going to rise from $1175 per oz
-        Person B believes Gold is going to fall from $1175 per oz
-        Therefore the two clients enter an agreement to settle the difference from $1175.
-        The Outcome
-        Person A Buys 1 oz of Gold at $1175
-        Person B Sells 1 oz of Gold at $1175
-        After 3 days, Gold is trading at $1180 showing Person A profit of $5 on his oz and person B a loss of $5
-        Person A Closes the position at $1180 and makes $5
-        Person B Closes the position at $1180 and loses $5
-        That example makes CFDs look pretty simple, and that's because, well, they are. Trading CFDs isn’t all that different from trading traditional shares;
-        If you buy 500 shares of a company at $5 then you have $2500 of stock.
-        If you buy 500 shares with a CFD at $5 then you also have $2500
-        If the share price rises by 10% then you have made $250 from your share trade.
-        If the share price rises by 10% then you have made $250 from your CFD trade
-        Now you’re thinking, well if the value is the same, the profit is the same, the loss is the same, the risk is the same, then why trade CFDs?
-        Read “Advantages of CFD Trading” below to find out
-- q: "ADVANTAGES OF CFD TRADING"
+        差价合约通常以所谓的杠杆交易[不用担心，我们稍后会介绍]，以给交易者更多的交易能力，灵活性和机会。通过下面的示例让我们简单的了解一下&#58;
+        价差合约的合同中指出&#58
+        交易者A认为金价将从每盎司1175美元开始上涨；
+        交易者B认为金价将从每盎司1175美元开始下跌；
+        因此，两位交易者客户签订协议以建立了$ 1175的价差合约。
+        结果是：
+        交易者A以1175美元的价格购买1盎司黄金
+        交易者B以1175美元的价格出售1盎司黄金
+        3天后，黄金的交易价格为$ 1180，交易者A的黄金每盎司利润为$5美金，交易者B的美金每盎司亏损为$5美金，
+        交易者A在$1180美金每盎司平仓并赚$5美金
+        交易者B以$1180美元每盎司平仓并损失$5美元。
+        该示例使CFD看起来非常简单，这是因为它们确实如此。交易差价合约与交易传统股票没有什么不同；
+        如果您以5美元的价格购买500股公司股票，则您拥有2500美元的股票。
+        如果您以5美元的差价合约购买500股股票，那么您也有2500美元。
+        如果股价上涨10％，那么您从股票交易中获得了250美元。
+        如果股价上涨10％，那么您通过差价合约交易赚了250美元。
+        现在，试想一下，如果价值相同，利润相同，亏损相同，风险相同，那么为什么要交易差价合约呢？
+        阅读下面的“差价合约交易的优势”以了解更多资讯。
+- q: "差价合约交易的优势"
   a: |
-        Profit and Loss Calculations
-        The Profit or Loss for a CFD can be calculated using a very simple formula;
-        P/L = (Sell Price* - Buy Price*) x No. of CFDs
-        *Without a decimal point
-        It doesn’t matter if you bought or sold first, the profit on a CFD is the difference between the buying and selling price. It’s just that simple!
-        You will find plenty of examples of P/L calculations in the remainder of this document.
-        Make profit from a falling market
-        With CFDs, you can benefit whether the price of an instrument is falling or rising. As we mentioned earlier there is no restriction on opening a position with a buy or a sell in CFD trading.
-        Entering a position with a buy-sell, which you would do if you thought the market was falling, is called short selling and allows you to sell a position first and then buy it back at a lower price.
-        An example using our simple P/L formula is as follows;
-        ...and it does, so, to close your trade...
-        You buy 10 CFDs @ 58.85
-        Therefore your P/L would be...
-        P/L = (6030-5885) x 10
-        = 145                 x 10
-        =                        $1450
-        Trade on a wide range of markets
-        With CFDs you are not limited to a specific asset class; you can trade all your favourites with CFDs. With Markets you can trade CFDs on&#58;
-        Foreign Exchange (Forex or FX)
-        Commodities
-        Indices
-        Bullion
-        No Stamp Duty
-        Whenever you buy a share, you have to pay the government 0.5% of the value of your trade. Well not with CFDs; unlike other investments, there is no stamp duty to pay on a CFD trade.
-        Margin flexibility
-        CFDs are traded on what we call margin. This means that you can take a large position in the market without having to deposit the full contract value.
-        For example, Markets offers a leverage of 400:1 on FX meaning that you could leverage a $2,500 deposit to trade $1 million!
-        We will come to some examples of margin and leverage later on in our training.
-        But for the moment all you really need to know is that leverage is a really efficient use of your capital and leaves your equity free to trade in various other transactions.
-- q: "THE POTENTIAL PITFALLS OF CFD TRADING"
-  a: CFDs can be a risky business; as we have said before, leverage allows you to take positions that is larger than your deposit size. It means you can potentially make large profits but also means that the risk of large losses is greater.
-        If you are a beginner then the most important thing is to manage your risk. In fact, managing your risk is so important that we’ve dedicated an entire module to explaining how to do it.
+        损益计算
+        差价合约的损益可以使用非常简单的公式来计算；
+        损益=（卖价*-买价*）x差价合约数*价差合约数量*点值
+        无论您是先买还是卖都无所谓，差价合约的利润就是买卖价格之差。就这么简单！
+        您将在本文档的其余部分中找到许多损益计算示例。
+        从市场下跌中获利
+        使用差价合约，无论工具价格下跌还是上涨，您都可以从中受益。正如我们前面提到的，在差价合约交易中通过买入或卖出开仓没有限制。
+        如果您认为市场下跌，则可以通过买入卖出头寸，这称为卖空，您可以先卖出头寸，然后再以较低价格买回。
+        一个简单损益公式的示例如下：
+        ...如果如您所愿, 您可以马上平仓...
+        您以58.85的价格购买10个差价合约
+        因此，您的盈亏将为...
+        盈亏=（6030-5885）x 10
+        = 145 x 10
+        = $ 1450
+        在广泛的市场上交易
+        使用价差合约进行交易，您的交易品种不止仅限于特定的资产组合; 您可以通过交易价差合约，交易您所熟悉和喜欢的交易产品n&#58;
+        外汇
+        大宗商品
+        指数
+        资产类
+        无印花税
+        每当您购买股票时，就必须向政府支付交易价值的0.5％。与其他投资不同，差价合约交易无需支付印花税。
+        保证金灵活性
+        差价合约以我们所谓的保证金交易交易。这意味着您可以在市场上占据重要位置，而不必存入全部合约价值。
+        例如，市场提供了外汇合约1：400的杠杆，这意味着您可以利用250美元的存款来交易10万美元！
+        稍后我们将在培训中介绍一些保证金和杠杆作用的示例。
+        但是就目前而言，您真正需要知道的是，杠杆是对资金的有效利用，并且可以让您的权益自由地进行其他各种交易。
+- q: "差价合约交易的潜质"
+  a: 差价合约可能是一项冒险的业务；正如我们之前所说，杠杆可以让您持有比您的存款规模更大的头寸。这意味着您可以潜在地获得巨额利润，但也意味着巨额亏损的风险更大。
+        如果您是初学者，那么最重要的是管理风险。实际上，管理您的风险非常重要，因此我们专门只做了整个模块来说明如何做到这一点。

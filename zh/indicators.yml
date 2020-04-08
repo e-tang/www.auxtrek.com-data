@@ -22,7 +22,7 @@
   image: /resources/37/vector_577_08.png
 - title: WaveTrend动量振荡器
   author: 杰伊·詹茨 
-  desc: 'WaveTrend动量振荡器是流行且易于使用的WaveTrend振荡器的升级版本。 WaveTrend动量振荡器在原始WaveTrend计算中添加了动量成分，以便在市场趋势趋向时提供更快，更准确的找到切入点。
+  desc: WaveTrend动量振荡器是流行且易于使用的WaveTrend振荡器的升级版本。 WaveTrend动量振荡器在原始WaveTrend计算中添加了动量成分，以便在市场趋势趋向时提供更快，更准确的找到切入点。
   link: 'https://www.mql5.com/zh/market/product/19005'
   image: /resources/37/vector_577_09.png
 - title: 超级高频交易

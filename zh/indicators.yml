@@ -1,35 +1,35 @@
-- title: Trading panel with risk management
-  author: Artur Zas
-  desc: Robust trading panel for use on any symbol (including RangeBars or Renko custom symbols). The tool can be placed anywhere on the chart and offers the following array of features.
+- title: 风险管理交易面板
+  author: 阿图尔·扎斯
+  desc: 强大的交易面板，可用于任何产品（包括Range Bars或Renko自定义产品）。该工具可以放在图表上的任何位置，并提供以下功能。
   link: "https://www.mql5.com/zh/market/product/30136"
   image: /resources/37/vector_576_18.png
-- title: PZ Trade Pad MT5
-  author: Arturo Lopez Perez
-  desc: 'This simple visual expert advisor allows you to trade easily from the chart. It handles risk management for you and can perform several useful tasks with your existing trades, saving time and making risk-management for each individual trade easier.'
-  link: 'https://www.mql5.com/zh/search#!keyword=PZ%20Trade%20Pad%20MT5'
+- title: PZ 交易面板
+  author: 阿图罗·洛佩兹·佩雷斯
+  desc: 简单的视觉EA面板使您可以从图表轻松进行交易。它可以为您处理风险管理，并且可以对您现有的交易执行几项有用的任务，从而节省时间并简化每笔交易的风险管理。
+  link: 'https://www.mql5.com/zh/market/product/21261'
   image: /resources/37/vector_576_19.png
-- title: Fast Copy MT4
-  author: Pavel Kolchin
-  desc: 'The program allows you to copy trades between different MetaTrader 5 and MetaTrader 4 accounts in any direction and amount quickly and easily.'
+- title: MT4快速跟单
+  author: 帕维尔·科钦
+  desc: 该程序使您可以快速，轻松地在任何方向和金额上在不同的MetaTrader 5和 MetaTrader 4帐户之间复制交易。
   link: 'https://www.mql5.com/zh/market/product/18932'
   image: /resources/37/vector_576_25.png
-- title: SFX Risk Reward Indicator
-  author: Somsri Sarkar
+- title: SFX 风险管理指标
+  author: 索姆斯里·萨卡
   desc: |
-      Free Version to test on live market before buying. Free Version works only for EURUSD orders.
-      Note\: \'Arial Bold\' font should be installed in your operating system, especially on windows 10 server.
+      购买前，免费版本可在实时市场上进行测试。免费版仅适用于EURUSD订单。
+      注意\：\ Arial Bold \字体应安装在操作系统中，尤其是在Windows 10的操作系统上。
   link: 'https://www.mql5.com/zh/market/product/22168#!tab=tab_p_overview'
   image: /resources/37/vector_577_08.png
-- title: WaveTrend Momentum Oscillator
-  author: Jay Jantz 
-  desc: 'WaveTrend Momentum Oscillator is an upgrade to the popular and easy-to-use WaveTrend Oscillator. The WaveTrend Momentum Oscillator adds a momentum component to the original WaveTrend calculation, in order to provide faster and more accurate entry points during trending market conditions.'
+- title: WaveTrend动量振荡器
+  author: 杰伊·詹茨 
+  desc: 'WaveTrend动量振荡器是流行且易于使用的WaveTrend振荡器的升级版本。 WaveTrend动量振荡器在原始WaveTrend计算中添加了动量成分，以便在市场趋势趋向时提供更快，更准确的找到切入点。
   link: 'https://www.mql5.com/zh/market/product/19005'
   image: /resources/37/vector_577_09.png
-- title: Density Scalper
-  author: Roman Lengert
+- title: 超级高频交易
+  author: 罗曼·伦格特
   desc: |
-       Before you buy a night scalper please be aware of the risks involved:
-        1) Past performance is no guarantee of future profitability (the EA could also make losses). 
-        2) The backtests shown (EG: in screenshots) are highly optimised to find the best parameters but therefore results cannot be transferred to live trading.
+       在购买夜间高频交易时，请注意以下风险：
+        1) 过去的表现并不能保证未来的盈利能力（EA也可能造成亏损）。
+        2) 所示的回测（如屏幕快照中的EG）经过高度优化以找到最佳参数，但是结果无法转移到实时交易中。
   link: 'https://www.mql5.com/zh/market/product/40941#!tab=tab_p_overview'  
   image: /resources/37/vector_577_12.png

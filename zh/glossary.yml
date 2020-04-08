@@ -176,7 +176,6 @@
         卖出限价单是一个以等于或高于市场价格的买入价卖出的交易请求。当前价格水平低于订单中的价格。通常，此订单是在价格上涨然后回落的情况下下达的。
         d. 卖出止价单
         卖出止价单是一种以等于或低于市场价格的买入价卖出的交易请求。当前价格水平高于订单中的价格。通常，此订单是在预期价格连续下跌的情况下下达的。 
-"
   - name: 场外交易(OTC)
     desc: 直接在交易员和委托人之间进行的市场，而不是交易所场内交易大厅。
 - group: P
@@ -196,46 +195,46 @@
     desc: 一个参考价格。
 - group: R
   terms: 
-  - name: Risks
+  - name: 风险
     desc: |
-        In financial trading, risks are the situations that an investment could lose money. Other risks include:
-        1. Unforeseen Circumstances
-        If there is some situation beyond a dealer’s control, such as, during periods of significant market disturbance, it may be impractical or impossible to trade in relevant financial markets.
-        2. Market Volatility
-        Foreign exchange and commodity markets are subject to many influences which may results in rapid price fluctuations. Because of this market volatility, there is no margin FX or CFD transaction or stop loss order which is available in AUXTREK’s MT4 platform that can be considered “ risk free ”.
-        3. Leverage Risk
-        Trading Margin FX and CFDs involves a high degree of leverage. Traders can use a relatively small initial margin which secures a significantly larger exposure to an underlying security, however, the potential gain and loss is equally magnified when using leverage.
+        在金融交易中，风险是指投资可能亏损的情况。其他风险包括：
+        1. 不可预见的情况
+        如果存在某些情况超出经销商的控制范围，例如在严重的市场动荡时期，则在相关金融市场进行交易可能是不切实际或不可能的。
+        2. 市场动荡
+        外汇和商品市场受到许多影响，可能会导致价格快速波动。由于市场动荡，AUXTREK的MT4平台没有可用的保证金外汇或CFD交易或止损定单。
+        3. 杠杆风险
+        交易保证金外汇和差价合约涉及高度杠杆。交易者可以使用相对较小的初始保证金，以确保获得更大的基础证券风险，但是，在使用杠杆时，潜在的收益和损失也被同样放大。
 - group: S
   terms: 
-  - name: Short
-    desc: Selling of a security such as a commodity or currency with the expectation that the asset will fall in value.
-  - name: Spot Price
-    desc: Price which reflects the product’s current value in the market.
-  - name: Spot Contract
-    desc: Spot Contract is a contract of buying or selling a commodity, security or currency for settlement (payment and delivery) on the spot date, which is normally two business days after the trade date. The settlement price (or rate) is called spot price (or spot rate).
-  - name: Spread
-    desc: The difference between the bid and ask price of a product.
-  - name: Sterling
-    desc: Slang for the British Pound.
-  - name: Stop Loss Order
-    desc: Stop Loss Order is an order placed to close an open position when it reaches a certain unfavourable price. It is designed to limit trader’s loss on a position.
-  - name: Stop Out
-    desc: Refers to the point at which margin has been reduced past its minimum level required by the broker which triggers the client’s largest losing position to be closed to release free margin. A margin call will occur before the stop out to demand the client bring their margin level up.
-  - name: Swaps
-    desc: Interest that is earned or paid for holding a spot position overnight.
-  - name: Swiss
-    desc: Slang for the Swiss Franc.
-  - name: Symbol
-    desc: A symbol is an arrangement of characters (usually letters) representing a particular security listed on an exchange or otherwise traded publicly.
+  - name: 做空
+    desc: 出售证券或商品之类的证券，期望资产会贬值。
+  - name: 现货价格
+    desc: 反映产品当前市场价值的价格。
+  - name: 现货合约
+    desc: 即期合同是在即期交易日（通常是交易日后两个工作日）买卖商品，证券或货币以进行结算（付款和交付）的合同。结算价格（或汇率）称为现货价格（或现货汇率）。
+  - name: 点差
+    desc: 产品的买价和卖价之间的差额。
+  - name: 英镑（Sterling）
+    desc: 英镑的俚语.
+  - name: 止损命令
+    desc: 止损单是当价格达到某个不利价格时用于平仓的订单。它旨在限制交易者的头寸损失。 
+  - name: 强平水平
+    desc: 指保证金已减少到经纪人要求的最低水平以上的水平，这触发了客户最大的亏损头寸被平仓以释放可用保证金。在止损之前将进行追加保证金要求客户提高其保证金水平。
+  - name: 掉期
+    desc: 隔夜持有现货头寸而赚取或支付的利息。
+  - name: 瑞郎（Swiss）
+    desc: 瑞士法郎的俚语。
+  - name: 符号
+    desc: 符号是字符的排列（通常是字母），代表交易所上列出或公开交易的特定证券。
 - group: T
   terms: 
-  - name: Take Profit Order
-    desc: This is a pending order giving instructions to the trading platform to execute/close a trade when it reaches a particular favourable level against current position in order to lock in/realise a set amount of profit.
-  - name: Technical Analysis
-    desc: Technical analysis is a security analysis methodology for forecasting the direction of prices through the study of past market data, primarily price and volume.
-  - name: Tick
-    desc: A minimum change in price, up or down of any product, for example, in currency trading, one tick means 0.00001, with exception of JPY which is 0.001.
-  - name: Time
-    desc: All time frames shown on AUXTREK MT4 platform are in Greenwich Mean Time (GMT). Greenwich Mean Time is the same as Coordinated Universal Time (UTC).
-  - name: Trailing Stop Order
-    desc: A trailing stop order sets the stop price at a fixed distance from the market price with an attached \"trailing\" amount. As the market price movement is favourable, the stop price will follow the trail amount, but if the market price movement is unfavourable, the stop loss price doesn't change and a market order is submitted when the stop price is hit.
+  - name: 止盈命令
+    desc: 这是一个挂单，指示交易平台在相对于当前头寸达到特定有利水平时执行/关闭交易，以锁定/实现一定数量的利润。
+  - name: 技术分析
+    desc: 技术分析是一种安全分析方法，用于通过研究过去的市场数据（主要是价格和数量）来预测价格走势。
+  - name: 最小波动
+    desc: 价格的最小变化，例如在货币交易中任何产品的上下波动，一勾表示0.00001，日元为0.001除外。
+  - name: 时间周期
+    desc: AUXTREK MT4平台上显示的所有时间范围均为格林威治标准时间（GMT）。格林威治标准时间与世界标准时间（UTC）相同。
+  - name: 追踪止损命令
+    desc: 追踪止损订单将止损价格设置为与市场价格相距固定距离，并附加“追踪”金额。由于市场价格走势有利，止损价格将跟随追踪量，但是如果市场价格走势不利，则止损价格不会改变，并且在达到止损价格时会提交市场订单。

@@ -1,13 +1,14 @@
-- q: "WHY TRADE CRYPTOCURRENCY AS CFD"
-  a: Because Bitcoin it is not a centralised currency controlled by a single bank or dominated by interbank dealers, the Bitcoin market moves quickly with retail demand and can be subject to significant price swings. And you don’t need to own any Bitcoin to profit from it - all you need to do is trade on the price movements, meaning you have the potential to profit from either direction.
-- q: "IS CRYPTOCURRENCY CFD REGULATED"
-  a: When trading a volatile cryptocurrency like Bitcoin as a CFD, it’s crucial to choose a reputable and accountable broker for your trades.
-        Help protect your account and reduce your risk by choosing a trusted, respected and fully regulated broker.
-- q: "WHAT IS BITCOIN"
-  a: Created in 2009, Bitcoin is one of the most popular forms of cryptocurrency. It is decentralised virtual money that can be traded or exchanged for goods and services and used as an online payment method between digital wallets (e-wallets).
-- q: "WHAT ARE CRYPTOCURRENCY"
-  a: Unlike traditional currencies which are typically based on physical paper or coins, cryptocurrencies are entirely digital or virtual. A cryptocurrency can be exchanged for other currencies, services or for the value of a physical item.
-- q: "WHAT IS BITCOIN MINING"
-  a: Bitcoin mining is the process through which Bitcoins are released and transactions are verified by powerful computers and programs. These transactions are added to the public ledger of Bitcoin, known as blockchain.
-- q: "WHAT IS BITCOIN WALLET"
-  a: A Bitcoin wallet is the equivalent of a traditional bank account, allowing you to transact with other Bitcoin users. There are various Bitcoin wallets available in the market, with each one allowing the wallet owner to store, send and receive Bitcoin.
+- q: "为什么以差价合约交易加密货币？"
+  a: 
+由于比特币不是由单个银行控制或由银行间交易商控制的集中货币，因此比特币市场随着零售需求而快速移动，并且可能会受到价格大幅波动的影响。而且，您无需拥有任何比特币即可从中获利-您所要做的就是在价格走势上进行交易，这意味着您有可能从任一方向获利。
+- q: "加密货币的差价合约合规吗？"
+  a: 当使用比特币作为加密货币差价合约进行交易时，为您的交易选择信誉良好且负责任的经纪人至关重要。
+        选择值得信赖的，受人尊敬的且受完全监管的经纪人，有助于保护您的帐户并降低风险。
+- q: "什么是比特币？"
+  a: 比特币创建于2009年，是最受欢迎的加密货币形式之一。它是一种去中心化的虚拟货币，可以交易或交换商品和服务，并用作数字钱包（电子钱包）之间的在线支付方式。
+- q: "什么是加密货币？"
+  a: 与通常基于实物纸币或硬币的传统货币不同，加密货币完全是数字或虚拟的。可以将加密货币兑换为其他货币，服务或实物项目的价值。
+- q: "什么是比特币挖矿？"
+  a: 比特币挖矿是释放比特币并通过功能强大的计算机和程序验证交易的过程。这些交易被添加到比特币的公共分类账中，被称为区块链。
+- q: "什么是比特币钱包？"
+  a: 比特币钱包相当于传统的银行帐户，可让您与其他比特币用户进行交易。市场上有各种比特币钱包，每种钱包都允许钱包所有者存储，发送和接收比特币。

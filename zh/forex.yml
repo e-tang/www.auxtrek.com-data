@@ -1,0 +1,81 @@
+- q: "WHAT IS FOREX"
+  a: If you’re not quite sure what Forex is, you may be more familiar with another of its names, the Foreign Exchange Market, Spot FX, Spot or simply FX!
+- q: "FOREX"
+  a: |
+        FOREX is the largest financial market in the world in terms of both size and liquidity. To give you a general idea of the size, an average of $5 trillion is traded globally each day. No stock market in the world trades such a huge amount on a daily basis.
+        The idea of FOREX is simple; it’s the exchange of one country’s currency for the currency of another country. With FX you’re essentially buying one currency and selling the other and so naturally FX is traded in pairs such the pound and the US Dollar [GBP/USD]. There are some “FX pairs” that are more popular than others, Euro vs. US Dollar [EUR/USD], British Pound vs. US Dollar [GBP/USD], US Dollar vs. Japanese yen [USD/JPY], and US Dollar vs. Swiss Franc [USD/CHF]. These four popular currency pairs are often referred to as “The Majors”
+        At almost any point during the day, there is always a financial centre somewhere in the world open for business. The FX market is open 24 hours a day and only closes on weekends between 22:00 (GMT) on Friday and 22:00 (GMT) on Sunday.
+        The Foreign Exchange market is decentralised; by that, we mean that it has no set physical location. Decentralised markets are known as OTC [Over the Counter] markets in which all trades are processed electronically 24 hours a day between banks around the world. Forex, unlike other financial markets, does not have an exchange centre so you can trade FX anywhere in the world, at any point in time but there are some peak trading session times in each region.
+- q: "QUOTES IN FOREX"
+  a: |
+        We mentioned above that currencies are always traded in pairs; this is because when you buy one, you’re essentially selling the other and vice versa.
+        So how do you read an FX quote?
+        E.g. EUR/USD = 1.1200
+        This means that 1 € = 1.12 $
+        EUR: in this quote EUR is known as the base currency.
+        USD: in this quote USD is known as the counter or quote currency.
+        This quote is also referred to as a direct quote which is where US Dollar is the counter or quote currency
+        E.g. USD/JPY = 125.00
+        This means 1 $ = 125 ¥
+        USD: in this quote USD is known as the base currency.
+        JPY: in this quote JPY is known as the counter or quote currency.
+        This quote is also referred to as an indirect quote which is where US Dollar is the base currency
+- q: "THE BID, THE ASK AND THE SPREAD"
+  a: |
+        All forex quotes have two prices attached to them, one is a bid price, and the other an ask price.
+        The bid price – if you want to SELL the base currency, then you would click on the bid price.
+        The bid price is the price at which the other party is willing to buy the base currency you want to sell in exchange for the quote currency.
+        The asking price – if you want to BUY the base currency, then you would click on the asking price.
+        The asking price is the price at which the other party is willing to sell the base currency to you in exchange for the quote currency.
+        The BID price is always lower than the ASK price and the difference between the two is known as the SPREAD.
+        The spread is the difference in price between buying and selling the base currency – this difference is charged to the client and paid to the BROKERS.
+- q: "LONG OR SHORT"
+  a: |
+        \"Going long\" in FX terms is buying the base currency and selling the quote currency. It is what you would do if you thought the base currency was going to rise.
+        EG: EUR/USD = 1.1200
+        If you thought that EUR was going to rise, you would “go long” meaning that you would buy EUR with the desire that you would be able to sell it for a higher price once it has risen.
+        You go long Euro @ 1.1200
+        Euro rises in value; EUR/USD = 1.1400
+        Your Euro is now worth $1.14 instead of $1.12
+        \"Going short\" in FX terms is selling the base currency and buying the quote currency. It is what you would do if you thought the base currency was going to fall.
+        EG: EUR / USD = 1.1200
+        If you thought that EUR was going to fall, you would “go short” meaning that you would sell EUR with the hope that you would be able to buy it for a cheaper price once it has fallen.
+        You go short Euro @ 1.1200
+        Euro falls in value; EUR/USD = 1.1000
+        Your Euro is now worth $1.10 instead of $1.12
+- q: "WATCH YOUR PIPS GROW INTO A LOT MORE"
+  a: |
+        PIP stands for “percentage in point” and is the smallest possible increment in a quote.
+        Example: GBP/USD has a rate of 1.5696 a PIP here would be 0.0001.
+        USD/JPY has a rate of 123.45 a PIP here would be 0.01.
+        So, a PIP is essentially the last decimal place of quotation, most currency pairs will have a PIP being equal to 0.0001 as they are usually quoted to 4 decimal places. This isn’t always the case, however, as we can see from the example above.
+- q: "HOW MUCH IS A LOT?"
+  a: |
+        One of the first concepts you need to understand as part of your Forex trading training is standard lots and micro lots; what are they and what’s the difference between them?
+        What is a Forex lot?
+        A standard forex lot is equal to 100,000 of the base currency so in the case of EUR/USD is EUR 100,000. The average pip size for a standard lot which is quoted to 4 decimal places is 10 of the counter currencies so, in this case, $10. If you are down 10 pips on a standard EUR/USD contract you have lost $100.
+- q: "Pip Movements (EG: EUR/USD @ 1.28205)"
+  a: |
+        5th Decimal Place (Micro pip movement) = 100,000 (1 Lot) x 0.00001 = $1.00 P&L
+        4th Decimal Place (1 pip movement) = 100,000 (1 Lot) x 0.00010 = $10.00 P&L
+        3rd Decimal Place (10 pip movement) = 100,000 (1 Lot) x 0.00100 = $100.00 P&L
+        2nd Decimal Place (100 pip movement (Big Figure)) = 100,000 (1 Lot) x 0.01000 = $1,000.00 P&L
+        1st Decimal Place (1,000 pip movement) = 100,000 (1 Lot) x 0.10000 = $10,000.00 P&L
+- q: "Pip Movements (EG: USD/JPY @ 76.850)"
+  a: |
+        3rd Decimal Place (Micro pip movement) = 100,000 (1 Lot) x 00.001 = Y100
+        2nd Decimal Place (1 pip movement) = 100,000 (1 Lot) x 00.010 = Y1,000
+        1st Decimal Place (10 pip movement) = 100,000 (1 Lot) x 00.100 = Y10,000
+        Big Figure move = 100,000 (1 Lot) x 01.000 = Y100,000
+        Let’s take another example in the form of USD/JPY. The standard lot size is USD 100,000 as USD is the base currency. As USD/JPY is quoted only to 2 decimal places then a pip is equivalent to JPY 1,000 so if you are up 10 pips on a standard USD/JPY contract you have made JPY 10,000.
+        Standard lots of forex are usually for institutional sized accounts; we're talking big rollers, who should have $25,000 or more to make trades using standard lots.
+        What is a Forex lot?
+        Let’s get real, if you’re thinking of starting Forex Trading, it's a good idea to start small and work your way up. Micro lots are good for beginners who need to get to become familiar with Forex trading. Unlike standard forex lots, which are worth 100,000 of the base currency, a micro lot is the equivalent to 1,000 worth of the base currency you want to trade. Similarly, unlike standard lots, [where 1pip=10 of the counter currency on pairs quoted to 4 decimal places and 1pip=1,000 of pairs quoted to 2 decimal places] 1 of a pip in a micro lot is only worth 0.10 (4 decimals) or 10 (2 decimals) of the counter currency.
+- q: "LEVERAGE AND MARGIN"
+  a: |
+        Now that we know what a pip is, we know that it is a very small amount, so you need to trade a LOT for these tiny PIPs to really make a difference.
+        \'Leveraging lets you magnify your profit potential, at the risk of greater losses, through allowing you to control a relatively large asset for a fraction of its cost\'
+        Example: 0.25% margin deposit means you are trading 400 times leverage, for example;
+        Buying 1 lot of GBP/USD @ 1.2900 with a margin requirement of 0.25% will cost you $322.5.
+        The margin requirement means that you can trade a volume of $100,000 in the market.
+        Through leverage trading, you can take advantage of very small pip movements in the market by trading very large volumes. Don’t worry if you do not fully understand \"Leverage\" yet, we’ll go into more detail about it in some of the later modules, or If you wish to see how our FX margin requirements are calculated click here for our Margin and Account Leverage FAQ.

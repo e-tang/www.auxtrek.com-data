@@ -1,0 +1,35 @@
+- title: Trading panel with risk management
+  author: Artur Zas
+  desc: Robust trading panel for use on any symbol (including RangeBars or Renko custom symbols). The tool can be placed anywhere on the chart and offers the following array of features.
+  link: "https://www.mql5.com/zh/market/product/30136"
+  image: /resources/37/vector_576_18.png
+- title: PZ Trade Pad MT5
+  author: Arturo Lopez Perez
+  desc: 'This simple visual expert advisor allows you to trade easily from the chart. It handles risk management for you and can perform several useful tasks with your existing trades, saving time and making risk-management for each individual trade easier.'
+  link: 'https://www.mql5.com/zh/search#!keyword=PZ%20Trade%20Pad%20MT5'
+  image: /resources/37/vector_576_19.png
+- title: Fast Copy MT4
+  author: Pavel Kolchin
+  desc: 'The program allows you to copy trades between different MetaTrader 5 and MetaTrader 4 accounts in any direction and amount quickly and easily.'
+  link: 'https://www.mql5.com/zh/market/product/18932'
+  image: /resources/37/vector_576_25.png
+- title: SFX Risk Reward Indicator
+  author: Somsri Sarkar
+  desc: |
+      Free Version to test on live market before buying. Free Version works only for EURUSD orders.
+      Note\: \'Arial Bold\' font should be installed in your operating system, especially on windows 10 server.
+  link: 'https://www.mql5.com/zh/market/product/22168#!tab=tab_p_overview'
+  image: /resources/37/vector_577_08.png
+- title: WaveTrend Momentum Oscillator
+  author: Jay Jantz 
+  desc: 'WaveTrend Momentum Oscillator is an upgrade to the popular and easy-to-use WaveTrend Oscillator. The WaveTrend Momentum Oscillator adds a momentum component to the original WaveTrend calculation, in order to provide faster and more accurate entry points during trending market conditions.'
+  link: 'https://www.mql5.com/zh/market/product/19005'
+  image: /resources/37/vector_577_09.png
+- title: Density Scalper
+  author: Roman Lengert
+  desc: |
+       Before you buy a night scalper please be aware of the risks involved:
+        1) Past performance is no guarantee of future profitability (the EA could also make losses). 
+        2) The backtests shown (EG: in screenshots) are highly optimised to find the best parameters but therefore results cannot be transferred to live trading.
+  link: 'https://www.mql5.com/zh/market/product/40941#!tab=tab_p_overview'  
+  image: /resources/37/vector_577_12.png

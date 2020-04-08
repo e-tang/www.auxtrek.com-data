@@ -1,0 +1,98 @@
+
+  - q: 为什么 my funds be protected at Auxtrek FX
+    a: Auxtrek international Ltd is regulated as a Securities Dealer by the Labuan Financial Services Authority (FSA). As such, our internal systems are in compliance with the FSA regulations, which means that your funds are held in segregated accounts to protect your assets.
+  - q: What are the advantages of trading with AUXTREK FX?
+    a: Auxtrek FX provides you with low spreads starting from 0.0 pips and ultra-fast execution speed of 0.15 seconds on average. Skrill, Neteller, FasaPay, UnionPay and credit card deposits are processed instantly while withdrawals are processed within one working day. We are proud that we have no restrictions on trading and no requotes. We also allow scalping, hedging, arbitrage, EAs and algorithms.
+  - q: Where is Auxtrek FX regulated?
+    a: Auxtrek is a trading name of Auxtrek International Ltd, which is regulated by the Labuan Financial Services Authority (FSA).
+  - q: How do I deposit funds to my account?
+    a: You can make a deposit inside your Client Area using a funding option that best suits you. There are no fees on deposits.
+  - q: Is broker to broker transfers allowed?
+    a: We do not support broker to broker transfers, we only offer our standard payment methods.
+  - q: What is the minimum deposit?
+    a: The minimum deposit for all account types is $100. However, to get a VIP account, you have to reach a minimum balance of $50,000.
+  - q: How do I withdraw funds from my account?
+    a: Log in to your Client Area and fill in the respective withdrawal form. There are no fees on withdrawals.
+  - q: How fast do you process my withdrawals?
+    a: We process all withdrawal requests within one working day.
+  - q: How long does it take for funds to reach my bank account?
+    a: We process all withdrawal requests within one working day. The time necessary for the funds to reach your bank account depends on your bank’s policy. Bank withdrawals can take 3-7 working days to be seen on the client’s account. Credit/debit card withdrawals can take up to 8 working days to be seen on the client’s account.
+  - q: Can I withdraw via a different payment method from the one I used to deposit?
+    a: Our policy is to process withdrawals via the same method that you used to deposit. For example, if you deposited using a credit card, the card will be credited with the amount equal to the deposit amount, taking into consideration any profits or losses incurred as a result of your trades. Upon request, we can send any profits via other payment methods under your name.
+  - q: Can I withdraw my money if I have an open position(s)?
+    a: If you do not have sufficient free margin on your trading account, we will not carry out the withdrawal request until you submit a corrected withdrawal form and/or close the open positions on your account.
+  - q: Do you offer remuneration for Introducing Brokers?
+    a: "We do offer an IB programme. Here is how it works:
+      1.	Open an account in the Client Area. If you are an existing client, please insert your account number.
+      2.	Agree to the terms and conditions in the Client Area - IB Room.
+      3.	Promote our services to potential clients who may wish to open an account and start trading with us.
+      4.	Start receiving IB commissions.
+      If you want to share your IB link with your clients, please note that the URL link contains cookies. Cookies will save your IB information. When your client completes the registration form in the Client Area and opens an MT4 account, then your IB code will be provided by default as main IB.
+      Our IB compensation scheme:
+      Client trading account - IB gets $2 dollars per lot, round turn.
+      Auxtrek IB Programme is a unique opportunity to earn income, without any investment from your side. Even if you invite only one client, you will get rewarded for every trade they place.
+      Our IB programme has no hidden limitations:
+      1.	No limit for the duration of trades.
+      2.	No limit for the number of trades.
+      3.	No limit for the volume of trades.
+      4.	No limit related to the difference between an open price and close price.
+      5.	No limit for the number of new clients you bring during a certain period.
+      We offer special marketing tools that will help you get new clients simply and efficiently. Thanks to our transparent programme, you will be able to check and monitor each client and each trade that brought you a commission."    
+  - q: How can I attach clients to my IB account?
+    a: "There are two ways a client can be attached to your IB account:
+      1.	You provide your clients with a unique IB referral link. Whenever a new client goes to our website using that link, registers his Client Area and opens a live account, you immediately see him being attached to your IB account.
+      2.	We can add an existing client under your IB account upon a written request from the client"
+  - q: What are your spreads?
+    a: "We offer floating spreads for all accounts, starting from 0.0 pips with low commissions.
+    At market opening and closing times and prior to announcements, the market spreads may widen substantially. Consequently, you must ensure that you have sufficient funds on your account to cover this." 
+  - q: How can I find/check historical data?
+    a: "You can download historical data from the MT4 trading platform, by clicking on:
+      Tools > History Centre – then choose a trading instrument and finally press the ‘Download’ button.
+      History will then be available on your trading platform, so you can click on:
+      File > Open offline > Open Offline Chart.
+      Please note that the longer the time frame, the longer the available history will be. For example, M5 history is available for 1.5 weeks, M15 history for 1 month, etc."    
+  - q: What are the limits of setting SL, TP, and TS?
+    a: You can set Stop Loss and Take Profit orders with no limits on all account types. SL and TP orders will still be active, even if your computer is switched off. The minimum Trailing Stop level is 1.5 pips or 15 points. It is possible to set only 1 trailing stop per order. You need to have the MT4 platform open to keep the trailing stop active.
+  - q: What is Auxtrek’s trade execution model?
+    a: Auxtrek International Ltd is an Labuan  FSA  regulated broker with a fully automated No Dealing Desk (NDD) execution model, providing liquidity from global, top-tier banks and hedge funds.
+  - q: What is slippage?
+    a: Auxtrek International Ltd is a NDD broker, which means that we clear our clients’ trades and retranslate quotes we get from our liquidity providers. Orders in the real market are always executed at current market prices, which is why slippage may occur in the case of a sharp movement. Please note, that during market-moving news or high volatility, the risk of slippage is higher than during normal conditions. With us, you will get both positive and negative slippages.
+  - q: What are your margin call/stop out levels?
+    a: "Our margin call / stop out levels are 100% / 50%
+    Your account may be subject to a margin call if your account equity falls to a level that is equal to the margin of your existing positions. For example, you have an open position of 1 lot on EUR/USD. The margin to hold that position is 200.
+    When you opened the account, you had a 1000 USD equity in your account. When the position starts to move against you and your account equity falls to 200 USD, you will have a margin call. But your position will not be closed yet. When your account equity falls to 50% of the required margin, then the system will close your positions immediately.
+    Taking the above example, if you open a position with 200 USD of margin and your account equity falls to 60 USD, then the system starts to close your position. If you have several positions opened, then the system closes them starting from the one with the biggest loss.
+    If, while closing the positions, your account equity reaches a level of more than 50% of the required margin, all other positions will remain open."
+  - q: What is the commission on the Pro account?
+    a: The account has a commission of $2.50 USD dollars.
+  - q: Does slippage occur in your platform?
+    a: At Auxtrek FX, slippage can occur during major news announcements, depending on the market conditions and volatility. There could be both positive and negative slippage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

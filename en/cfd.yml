@@ -1,0 +1,63 @@
+- q: "WHAT IS CFD TRADING"
+  a: |
+        A contract for difference (or CFD) is a contract between two parties; LP is the market maker in this situation and will be the buyer to anyone selling and the seller to anyone buying. The seller will pay to the buyer the difference between the current value of an asset and its value at contract time. (If the difference is negative, then the buyer pays the seller.) In effect CFDs are financial derivatives that allow investors to take advantage of prices moving up (long positions) or prices moving down (short positions) on underlying financial instruments and are often used to speculate on those markets.
+        If the difference between the current and contract time value is negative, then the buyer will pay the seller.
+        If the difference is positive, then the seller will pay the buyer the difference in value.
+        There is...
+        No restriction on the entry or exit price of a CFD.
+        No time limit on when this exchange happens.
+        No restriction on buying or selling first.
+- q: "CFD TRADING EXAMPLE"
+  a: |
+        CFDs are often traded on what is called leverage [don’t worry we’ll get to this a bit later on] to give traders more trading power, flexibility and opportunities. In the meantime, let’s just keep it simple with the following example&#58;
+        The Agreement&#58;
+        Person A believes Gold is going to rise from $1175 per oz
+        Person B believes Gold is going to fall from $1175 per oz
+        Therefore the two clients enter an agreement to settle the difference from $1175.
+        The Outcome
+        Person A Buys 1 oz of Gold at $1175
+        Person B Sells 1 oz of Gold at $1175
+        After 3 days, Gold is trading at $1180 showing Person A profit of $5 on his oz and person B a loss of $5
+        Person A Closes the position at $1180 and makes $5
+        Person B Closes the position at $1180 and loses $5
+        That example makes CFDs look pretty simple, and that's because, well, they are. Trading CFDs isn’t all that different from trading traditional shares;
+        If you buy 500 shares of a company at $5 then you have $2500 of stock.
+        If you buy 500 shares with a CFD at $5 then you also have $2500
+        If the share price rises by 10% then you have made $250 from your share trade.
+        If the share price rises by 10% then you have made $250 from your CFD trade
+        Now you’re thinking, well if the value is the same, the profit is the same, the loss is the same, the risk is the same, then why trade CFDs?
+        Read “Advantages of CFD Trading” below to find out
+- q: "ADVANTAGES OF CFD TRADING"
+  a: |
+        Profit and Loss Calculations
+        The Profit or Loss for a CFD can be calculated using a very simple formula;
+        P/L = (Sell Price* - Buy Price*) x No. of CFDs
+        *Without a decimal point
+        It doesn’t matter if you bought or sold first, the profit on a CFD is the difference between the buying and selling price. It’s just that simple!
+        You will find plenty of examples of P/L calculations in the remainder of this document.
+        Make profit from a falling market
+        With CFDs, you can benefit whether the price of an instrument is falling or rising. As we mentioned earlier there is no restriction on opening a position with a buy or a sell in CFD trading.
+        Entering a position with a buy-sell, which you would do if you thought the market was falling, is called short selling and allows you to sell a position first and then buy it back at a lower price.
+        An example using our simple P/L formula is as follows;
+        ...and it does, so, to close your trade...
+        You buy 10 CFDs @ 58.85
+        Therefore your P/L would be...
+        P/L = (6030-5885) x 10
+        = 145                 x 10
+        =                        $1450
+        Trade on a wide range of markets
+        With CFDs you are not limited to a specific asset class; you can trade all your favourites with CFDs. With Markets you can trade CFDs on&#58;
+        Foreign Exchange (Forex or FX)
+        Commodities
+        Indices
+        Bullion
+        No Stamp Duty
+        Whenever you buy a share, you have to pay the government 0.5% of the value of your trade. Well not with CFDs; unlike other investments, there is no stamp duty to pay on a CFD trade.
+        Margin flexibility
+        CFDs are traded on what we call margin. This means that you can take a large position in the market without having to deposit the full contract value.
+        For example, Markets offers a leverage of 400:1 on FX meaning that you could leverage a $2,500 deposit to trade $1 million!
+        We will come to some examples of margin and leverage later on in our training.
+        But for the moment all you really need to know is that leverage is a really efficient use of your capital and leaves your equity free to trade in various other transactions.
+- q: "THE POTENTIAL PITFALLS OF CFD TRADING"
+  a: CFDs can be a risky business; as we have said before, leverage allows you to take positions that is larger than your deposit size. It means you can potentially make large profits but also means that the risk of large losses is greater.
+        If you are a beginner then the most important thing is to manage your risk. In fact, managing your risk is so important that we’ve dedicated an entire module to explaining how to do it.

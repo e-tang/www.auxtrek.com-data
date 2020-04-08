@@ -8,7 +8,6 @@
     desc: 给予经销商以市场上当前可用的最佳价格购买或出售的指令。
   - name: 价格止损单
     desc: 自市场价格触及触发价以来，必须执行止损指令。
-"
   - name: 澳币
     desc: 澳币的俚语（AUSSIE）
 - group: B
@@ -39,49 +38,45 @@
     desc: 市场观点认为价格会上涨。
   - name: 金条
     desc: 金条是金或银，呈条状和锭状，其纯度必须至少为99.5％。
-"
-  - name: Bull Market
-    desc: A market characterized by rising prices.
+  - name: 牛市
+    desc: 处于价格上涨的市场。
 - group: C
   terms: 
-  - name: Candlestick Chart
-    desc: "Candlestick Chart is a type of chart that contains a \"candlestick\" for each period it represents. The bottom and top of the box represent the opening and closing while the vertical lines coming out of the boxes represent the lowest and highest price. If the candlestick is showing a rising trend, then the opening price is at the bottom of the box and the closing price is at the top of the box. For a decreasing price trend, the location of the opening and closing price are inverted.
-"
-  - name: Chart Period
-    desc: "A tool to view the underlying securities’ movements according to different time frames. When a period is selected, the corresponding changes will appear in the active chart. The client terminal has nine chart periods (M1 - indicates one-minute chart; M5 - indicates five-minute chart; M30 - indicates thirty-minute chart; H1 - indicates one-hour chart; H4 - indicates four-hour chart; D1 - indicates one-day chart; W1 - indicates one-week chart; MN - indicates one-month chart).
-"
-  - name: Commission
-    desc: The fee that a broker may charge clients for a trade or transaction.
-  - name: Contract
-    desc: An agreement to buy or sell a specified amount of a particular product.
-  - name: Contract for Differences (CFDs)
-    desc: Contract for Differences (CFDs) are contracts between two parties whereby it is agreed that the seller will give the buyer the difference between its current value and the value at the end of the contract of an asset agreed upon. These are financial derivatives whose value depend solely on the change of price of an underlying asset meaning no physical asset is purchased.
-  - name: Contract Month
-    desc: The month in which a futures contract expires.
-  - name: Contract Size
-    desc: Contract Size is the deliverable quantity of a product. The size and the units of measure for each product differ from one another.
-  - name: Contract Value
-    desc: "Contract Value is the value of an order that moves with the market price. It is largely dependent on three things; the volume the client is purchasing, the contract size and the current market price of the product. It is found by the formula:
-"
-  - name: Contract Value = (market price X volume X contract size)
-    desc: Currency Basket
-        A selected group of currencies in which the weighted average is used as a measure of the value or the amount of an obligation. It functions as a benchmark for regional currency movements.
+  - name: 日本蜡烛图
+    desc: “日本蜡烛图”是一种图表类型，在它表示的每个周期中都包含一个“烛台”。框的底部和顶部代表开盘价和收盘价，而框外的垂直线代表最低和最高价格。如果烛线呈上升趋势，则开盘价位于框的底部，收盘价位于框的顶部；对于下降的价格趋势，开盘价和收盘价的位置相反。
+  - name: 图表周期
+    desc: 用于查看不同时间范围内基础证券走势的工具。选择一个期间后，相应的更改将显示在活动图表中。客户终端具有九个图表期间（M1-表示一分钟图表； M5-表示五分钟图表； M30-表示三十分钟图表； H1-表示一小时图表； H4-表示四小时图表； D1-表示一日图表； W1-表示一周图表； MN-表示一个图表月图表）。
+  - name: 佣金
+    desc: 经纪人可能就交易或交易向客户收取的费用
+  - name: 合同
+    desc: 买卖指定数量特定产品的协议。
+  - name: 差价合约（CFD）
+    desc: 差价合约（CFD）是指双方之间的合同，据此，卖方应同意将买方的当期价值与合同约定的资产期末价值之间的差额提供给买方。这些是金融衍生产品，其价值完全取决于基础资产价格的变化，这意味着不购买任何有形资产。
+  - name: 合约月份
+    desc: 期货合约到期的月份。
+  - name: 合约大小
+    desc: 合同规模是产品的可交付数量。每种产品的尺寸和度量单位互不相同。
+  - name: 合约价值
+    desc: 合同价值是指随市场价格变动的订单的价值。它很大程度上取决于三件事：客户购买的数量，合同规模和产品的当前市场价格。可以通过以下公式找到：
+  - name: 合约价值=（市场价格X数量X合约大小）
+    desc: 货币篮子
+        选定的一组货币，其中的加权平均值用作义务价值或金额的度量。它充当区域货币走势的基准。
 - group: D
   terms: 
-  - name: Delivery Date
-    desc: The final date by which the underlying commodity for a futures contract must be delivered in order for the terms of the contract to be fulfilled.
-  - name: Derivatives
-    desc: A security which itself is a contract between two or more parties where its price is dependent upon or derived from one or more underlying assets.
-  - name: Direct Quote
-    desc: The domestic currency is a variable amount and the foreign currency is fixed at one unit.
+  - name: 到期日
+    desc: 为了履行合同条款，期货合同的基础商品必须交付的最终日期。
+  - name: 衍生品
+    desc: 证券本身是两方或多方之间的合同，其价格取决于一个或多个基础资产或从中衍生。
+  - name: 直接报价
+    desc: 本币是可变金额，外币固定为一个单位。
 - group: E
   terms: 
-  - name: Equity
-    desc: Equity is the sum of balance and gains and losses.
-  - name: Euro
-    desc: The Euro is the currency used by the Eurozone.
-  - name: Execution
-    desc: "An execution is the completion of a buy or sell order for a security. There are three basic order execution modes:
+  - name: 净值
+    desc: 净值是余额与损益之和。
+  - name: 欧元
+    desc: 欧元是欧元区使用的货币。
+  - name: 执行
+    desc: 执行是完成证券买入或卖出订单。有三种基本的订单执行模式：
         1. Instant Execution
         In this mode, the order is executed at the price offered to the broker. At sending the order to be executed, terminal sets the current prices in the order. If the broker accepts the prices, the order will be executed. If not, \"Requote\" will occur.
         2. Execution on Request

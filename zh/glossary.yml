@@ -13,7 +13,7 @@
     desc: Slang for the Australian dollar.
 - group: B
   terms: 
-  - name: Balance
+  - name: Balance 余额
     desc: Balance is the amount of your capital left with the broker. Even when there is a trade in progress, this balance amount will not fluctuate along with the floating profit or loss. If you have opened a position and liquidated it, the amount will be changed in accordance to your profit or loss amount.
   - name: Bank Rate
     desc: The rate at which a central bank is prepared to lend money to its domestic banking system.

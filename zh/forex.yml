@@ -1,81 +1,82 @@
-- q: "WHAT IS FOREX"
-  a: If you’re not quite sure what Forex is, you may be more familiar with another of its names, the Foreign Exchange Market, Spot FX, Spot or simply FX!
-- q: "FOREX"
+- q: "什么是外汇？"
+  a: 
+如果您不太确定什么是外汇，则可能更熟悉其中的另一个名称，即外汇市场，即期外汇，即期外汇或仅仅是外汇！
+- q: "外汇"
   a: |
-        FOREX is the largest financial market in the world in terms of both size and liquidity. To give you a general idea of the size, an average of $5 trillion is traded globally each day. No stock market in the world trades such a huge amount on a daily basis.
-        The idea of FOREX is simple; it’s the exchange of one country’s currency for the currency of another country. With FX you’re essentially buying one currency and selling the other and so naturally FX is traded in pairs such the pound and the US Dollar [GBP/USD]. There are some “FX pairs” that are more popular than others, Euro vs. US Dollar [EUR/USD], British Pound vs. US Dollar [GBP/USD], US Dollar vs. Japanese yen [USD/JPY], and US Dollar vs. Swiss Franc [USD/CHF]. These four popular currency pairs are often referred to as “The Majors”
-        At almost any point during the day, there is always a financial centre somewhere in the world open for business. The FX market is open 24 hours a day and only closes on weekends between 22:00 (GMT) on Friday and 22:00 (GMT) on Sunday.
-        The Foreign Exchange market is decentralised; by that, we mean that it has no set physical location. Decentralised markets are known as OTC [Over the Counter] markets in which all trades are processed electronically 24 hours a day between banks around the world. Forex, unlike other financial markets, does not have an exchange centre so you can trade FX anywhere in the world, at any point in time but there are some peak trading session times in each region.
-- q: "QUOTES IN FOREX"
+        就规模和流动性而言，外汇交易是世界上最大的金融市场。为了让您大致了解交易规模，每天全球平均交易量为5万亿美元。世界上没有任何股票市场每天交易如此之大。
+        外汇的定义很简单；这是一国货币与另一国货币的兑换。使用外汇，您实际上是在购买一种货币而卖出另一种，因此自然地，外汇会成对交易，例如英镑和美元[GBP / USD]。有一些“外汇对”比其他货币更受欢迎，例如欧元兑美元[EUR / USD]，英镑兑美元[GBP / USD]，美元兑日元[USD / JPY]和美元兑瑞士法郎[USD / CHF]。这四种流行货币对通常被称为“专业”
+        在一天的几乎任何时候，世界上总有一个金融中心在营业。外汇市场全天24小时开放，仅在周五的22:00（GMT）和周日的22:00（GMT）之间的周末关闭。外汇市场是分散的；这样，我们的意思是它没有固定的物理位置。分散市场被称为场外交易（OTC）市场，所有交易在世界各地的银行之间全天24小时以电子方式进行处理。外汇与其他金融市场不同，它没有交易中心，因此您可以在世界任何地方，任何时间点进行外汇交易，但是每个地区的交易时段都比较高峰。
+- q: "外汇报价"
   a: |
-        We mentioned above that currencies are always traded in pairs; this is because when you buy one, you’re essentially selling the other and vice versa.
-        So how do you read an FX quote?
-        E.g. EUR/USD = 1.1200
-        This means that 1 € = 1.12 $
-        EUR: in this quote EUR is known as the base currency.
-        USD: in this quote USD is known as the counter or quote currency.
-        This quote is also referred to as a direct quote which is where US Dollar is the counter or quote currency
-        E.g. USD/JPY = 125.00
-        This means 1 $ = 125 ¥
-        USD: in this quote USD is known as the base currency.
-        JPY: in this quote JPY is known as the counter or quote currency.
-        This quote is also referred to as an indirect quote which is where US Dollar is the base currency
-- q: "THE BID, THE ASK AND THE SPREAD"
+        上面我们提到，货币总是成对交易。这是因为，当您购买一个时，实际上就是在卖另一个，反之亦然。
+        那么，您如何解读外汇报价？
+        例如：欧元/美元= 1.1200
+        这意味着1€= 1.12 $
+        欧元：在此报价中，欧元被称为基础货币。
+        USD：在此报价中，USD被称为柜台货币或报价货币。
+        此报价也称为直接报价，即美元为柜台货币或报价货币
+        例如。美元/日元= 125.00
+        这表示1 $ = 125¥
+        美元：在此报价中，美元被称为基础货币。
+        日元：在此报价中，日元称为柜台货币或报价货币。
+        此报价也称为间接报价，其中美元是基础货币。
+- q: "买价，卖价和价差"
+  a: |       
+        所有外汇报价都附有两个价格，一个是买入价，另一个是卖出价。
+        买入价–如果您想卖出基准货币，则可以点击买入价。
+        买入价是另一方愿意购买要出售的基础货币以换取报价货币的价格。
+        卖出价–如果您想购买基础货币，则可以点击卖价。
+        卖出价是另一方愿意向您出售基准货币以换取报价货币的价格。
+        卖出价格始终低于买入价格，两者之差称为价差。
+        点差是买卖基础货币之间的价格差–该差额由客户收取，并支付给经纪人。
+- q: "做多或做空"
   a: |
-        All forex quotes have two prices attached to them, one is a bid price, and the other an ask price.
-        The bid price – if you want to SELL the base currency, then you would click on the bid price.
-        The bid price is the price at which the other party is willing to buy the base currency you want to sell in exchange for the quote currency.
-        The asking price – if you want to BUY the base currency, then you would click on the asking price.
-        The asking price is the price at which the other party is willing to sell the base currency to you in exchange for the quote currency.
-        The BID price is always lower than the ASK price and the difference between the two is known as the SPREAD.
-        The spread is the difference in price between buying and selling the base currency – this difference is charged to the client and paid to the BROKERS.
-- q: "LONG OR SHORT"
+       外汇交易中的“做多”就是买入基准货币并卖出报价货币。如果您认为基础货币会上涨，那将是您要做的。
+        例如：EUR / USD = 1.1200
+        如果您认为欧元将要上涨，那么您将“做多”，这意味着您将购买欧元，并希望一旦欧元上涨就可以以更高的价格出售。
+        您在1.1200买入欧元多头
+        欧元升值；欧元/美元= 1.1400
+        您的欧元现在价值$ 1.14，而不是$ 1.12
+        外汇交易中的“做空”是卖出基准货币，买入报价货币。如果您认为基础货币将下跌，那将是您要做的。
+        EG：EUR / USD = 1.1200
+        如果您认为欧元将要下跌，那么您将“做空”，这意味着您将卖出欧元，希望一旦欧元下跌就可以以更便宜的价格购买它。
+        您在1.1200处做空欧元
+        欧元贬值；欧元/美元= 1.1000
+        您的欧元现在价值$ 1.10而不是$ 1.12。
+- q: "观察你的基点不断地增长"
   a: |
-        \"Going long\" in FX terms is buying the base currency and selling the quote currency. It is what you would do if you thought the base currency was going to rise.
-        EG: EUR/USD = 1.1200
-        If you thought that EUR was going to rise, you would “go long” meaning that you would buy EUR with the desire that you would be able to sell it for a higher price once it has risen.
-        You go long Euro @ 1.1200
-        Euro rises in value; EUR/USD = 1.1400
-        Your Euro is now worth $1.14 instead of $1.12
-        \"Going short\" in FX terms is selling the base currency and buying the quote currency. It is what you would do if you thought the base currency was going to fall.
-        EG: EUR / USD = 1.1200
-        If you thought that EUR was going to fall, you would “go short” meaning that you would sell EUR with the hope that you would be able to buy it for a cheaper price once it has fallen.
-        You go short Euro @ 1.1200
-        Euro falls in value; EUR/USD = 1.1000
-        Your Euro is now worth $1.10 instead of $1.12
-- q: "WATCH YOUR PIPS GROW INTO A LOT MORE"
+        基点代表“点数百分比”，并且是报价中可能的最小增量。
+        示例：GBP / USD的汇率为1.5696，此处的基点为0.0001。
+        USD / JPY的基点汇率为123.45，此处为0.01。
+        因此，基点本质上是报价的最后一个小数位，大多数货币对的PIP都等于0.0001，因为它们通常被报价为4个小数位。但是，从上面的示例中可以看出，情况并非总是如此。
+- q: "多少是一标准手?"
   a: |
-        PIP stands for “percentage in point” and is the smallest possible increment in a quote.
-        Example: GBP/USD has a rate of 1.5696 a PIP here would be 0.0001.
-        USD/JPY has a rate of 123.45 a PIP here would be 0.01.
-        So, a PIP is essentially the last decimal place of quotation, most currency pairs will have a PIP being equal to 0.0001 as they are usually quoted to 4 decimal places. This isn’t always the case, however, as we can see from the example above.
-- q: "HOW MUCH IS A LOT?"
+        在外汇交易培训中，您需要了解的第一个概念是标准手和微型手；它们是什么，它们之间有什么区别？
+        什么是外汇标准手？
+        外汇标准手等于基础货币的100,000，因此在EUR / USD情况下为100,000欧元。报价至小数点后四个位的标准手的平均点数为点数货币的10，因此，在这种情况下为10美元。如果您在标准欧元/美元合约上下跌了10个点，则您损失了$ 100。
+- q: "基点的移动（例如：EUR / USD @ 1.28205）"
   a: |
-        One of the first concepts you need to understand as part of your Forex trading training is standard lots and micro lots; what are they and what’s the difference between them?
-        What is a Forex lot?
-        A standard forex lot is equal to 100,000 of the base currency so in the case of EUR/USD is EUR 100,000. The average pip size for a standard lot which is quoted to 4 decimal places is 10 of the counter currencies so, in this case, $10. If you are down 10 pips on a standard EUR/USD contract you have lost $100.
-- q: "Pip Movements (EG: EUR/USD @ 1.28205)"
+        小数点后第五位（微点移动）= 100,000（1手）x 0.00001 = 1.00美元损益
+        小数点后第四位（1点差）= 100,000（1手）x 0.00010 = $ 10.00损益
+        小数点后第三位（10点移动）= 100,000（1手）x 0.00100 = $ 100.00损益
+        第二小数位（100点移动（大图））= 100,000（1手）x 0.01000 = $ 1,000.00损益
+        小数点后第一位（1,000点波动）= 100,000（1手）x 0.10000 = $ 10,000.00损益。
+- q: "基点的移动 (例如: USD/JPY @ 76.850)"
   a: |
-        5th Decimal Place (Micro pip movement) = 100,000 (1 Lot) x 0.00001 = $1.00 P&L
-        4th Decimal Place (1 pip movement) = 100,000 (1 Lot) x 0.00010 = $10.00 P&L
-        3rd Decimal Place (10 pip movement) = 100,000 (1 Lot) x 0.00100 = $100.00 P&L
-        2nd Decimal Place (100 pip movement (Big Figure)) = 100,000 (1 Lot) x 0.01000 = $1,000.00 P&L
-        1st Decimal Place (1,000 pip movement) = 100,000 (1 Lot) x 0.10000 = $10,000.00 P&L
-- q: "Pip Movements (EG: USD/JPY @ 76.850)"
+        小数点后第三位（微点移动）= 100,000（1手）x 00.001 = Y100
+        小数点后第二位（1点移动）= 100,000（1手）x 00.010 = Y1,000
+        小数点后第一位（10点移动）= 100,000（1手）x 00.100 = Y10,000
+        大点波动= 100,000（1手）x 01.000 = Y100,000
+        再以美元/日元为例。标准手数为100,000美元，因为美元是基础货币。由于USD / JPY的报价仅小数点后两位，所以一个点等于1000日元，因此，如果您在标准USD / JPY合约中上涨10个点，则可以赚10,000日元。
+        标准手外汇通常用于机构规模的账户；我们说的是大滚子，他们应该有25,000美元或更多的资金才能使用标准手交易。
+        什么是外汇标准手？
+        让我们成为现实，如果您正在考虑开始外汇交易，从小处着手并逐步提高自己是一个好主意。微型手对需要熟悉外汇交易的初学者来说非常有用。与价值100,000基础货币的标准外汇手不同，微型手等于您要交易的基础货币1,000的价值。类似地，与标准手不同，[其中点报价为小数点后4位的货币对中1pip = 10的点数货币，报价为小数点后两位为1pip = 1,000的货币对中的货币]微手数中每1点的点数仅值0.10（4个小数）或相对货币的10（小数点后2位）。
+
+- q: "杠杆和保证金"
   a: |
-        3rd Decimal Place (Micro pip movement) = 100,000 (1 Lot) x 00.001 = Y100
-        2nd Decimal Place (1 pip movement) = 100,000 (1 Lot) x 00.010 = Y1,000
-        1st Decimal Place (10 pip movement) = 100,000 (1 Lot) x 00.100 = Y10,000
-        Big Figure move = 100,000 (1 Lot) x 01.000 = Y100,000
-        Let’s take another example in the form of USD/JPY. The standard lot size is USD 100,000 as USD is the base currency. As USD/JPY is quoted only to 2 decimal places then a pip is equivalent to JPY 1,000 so if you are up 10 pips on a standard USD/JPY contract you have made JPY 10,000.
-        Standard lots of forex are usually for institutional sized accounts; we're talking big rollers, who should have $25,000 or more to make trades using standard lots.
-        What is a Forex lot?
-        Let’s get real, if you’re thinking of starting Forex Trading, it's a good idea to start small and work your way up. Micro lots are good for beginners who need to get to become familiar with Forex trading. Unlike standard forex lots, which are worth 100,000 of the base currency, a micro lot is the equivalent to 1,000 worth of the base currency you want to trade. Similarly, unlike standard lots, [where 1pip=10 of the counter currency on pairs quoted to 4 decimal places and 1pip=1,000 of pairs quoted to 2 decimal places] 1 of a pip in a micro lot is only worth 0.10 (4 decimals) or 10 (2 decimals) of the counter currency.
-- q: "LEVERAGE AND MARGIN"
-  a: |
-        Now that we know what a pip is, we know that it is a very small amount, so you need to trade a LOT for these tiny PIPs to really make a difference.
-        \'Leveraging lets you magnify your profit potential, at the risk of greater losses, through allowing you to control a relatively large asset for a fraction of its cost\'
-        Example: 0.25% margin deposit means you are trading 400 times leverage, for example;
-        Buying 1 lot of GBP/USD @ 1.2900 with a margin requirement of 0.25% will cost you $322.5.
-        The margin requirement means that you can trade a volume of $100,000 in the market.
-        Through leverage trading, you can take advantage of very small pip movements in the market by trading very large volumes. Don’t worry if you do not fully understand \"Leverage\" yet, we’ll go into more detail about it in some of the later modules, or If you wish to see how our FX margin requirements are calculated click here for our Margin and Account Leverage FAQ.
+        既然我们知道了什么是基点，我们知道这是一个很小的数目，所以您需要为这些微小的PIP交易很多才能真正发挥作用。
+        “利用杠杆作用，您可以控制相对较大的资产，而成本却只有其一小部分，从而使您有更大的损失风险，从而扩大了获利潜力”
+        例如：0.25％的保证金存款意味着您交易的是400倍的杠杆；
+        以1.2900的价格买入1手GBP / USD @ 1.2900，保证金要求为0.25％将花费您322.5美元。
+        保证金要求意味着您可以在市场上交易100,000美元。
+        通过杠杆交易，您可以通过交易大量交易来利用市场中很小的点差。如果您还不完全了解\“杠杆\”，请不要担心，我们将在以后的一些模块中对其进行详细介绍，或者，如果您希望了解我们的外汇保证金要求的计算方式，请点击此处保证金和账户杠杆常见问题解答。

@@ -1,72 +1,72 @@
 
-  - q: 为什么 my funds be protected at Auxtrek FX
-    a: Auxtrek international Ltd is regulated as a Securities Dealer by the Labuan Financial Services Authority (FSA). As such, our internal systems are in compliance with the FSA regulations, which means that your funds are held in segregated accounts to protect your assets.
-  - q: What are the advantages of trading with AUXTREK FX?
-    a: Auxtrek FX provides you with low spreads starting from 0.0 pips and ultra-fast execution speed of 0.15 seconds on average. Skrill, Neteller, FasaPay, UnionPay and credit card deposits are processed instantly while withdrawals are processed within one working day. We are proud that we have no restrictions on trading and no requotes. We also allow scalping, hedging, arbitrage, EAs and algorithms.
-  - q: Where is Auxtrek FX regulated?
-    a: Auxtrek is a trading name of Auxtrek International Ltd, which is regulated by the Labuan Financial Services Authority (FSA).
-  - q: How do I deposit funds to my account?
-    a: You can make a deposit inside your Client Area using a funding option that best suits you. There are no fees on deposits.
-  - q: Is broker to broker transfers allowed?
-    a: We do not support broker to broker transfers, we only offer our standard payment methods.
-  - q: What is the minimum deposit?
-    a: The minimum deposit for all account types is $100. However, to get a VIP account, you have to reach a minimum balance of $50,000.
-  - q: How do I withdraw funds from my account?
-    a: Log in to your Client Area and fill in the respective withdrawal form. There are no fees on withdrawals.
-  - q: How fast do you process my withdrawals?
-    a: We process all withdrawal requests within one working day.
-  - q: How long does it take for funds to reach my bank account?
-    a: We process all withdrawal requests within one working day. The time necessary for the funds to reach your bank account depends on your bank’s policy. Bank withdrawals can take 3-7 working days to be seen on the client’s account. Credit/debit card withdrawals can take up to 8 working days to be seen on the client’s account.
-  - q: Can I withdraw via a different payment method from the one I used to deposit?
-    a: Our policy is to process withdrawals via the same method that you used to deposit. For example, if you deposited using a credit card, the card will be credited with the amount equal to the deposit amount, taking into consideration any profits or losses incurred as a result of your trades. Upon request, we can send any profits via other payment methods under your name.
-  - q: Can I withdraw my money if I have an open position(s)?
-    a: If you do not have sufficient free margin on your trading account, we will not carry out the withdrawal request until you submit a corrected withdrawal form and/or close the open positions on your account.
-  - q: Do you offer remuneration for Introducing Brokers?
-    a: "We do offer an IB programme. Here is how it works:
-      1.	Open an account in the Client Area. If you are an existing client, please insert your account number.
-      2.	Agree to the terms and conditions in the Client Area - IB Room.
-      3.	Promote our services to potential clients who may wish to open an account and start trading with us.
-      4.	Start receiving IB commissions.
-      If you want to share your IB link with your clients, please note that the URL link contains cookies. Cookies will save your IB information. When your client completes the registration form in the Client Area and opens an MT4 account, then your IB code will be provided by default as main IB.
-      Our IB compensation scheme:
-      Client trading account - IB gets $2 dollars per lot, round turn.
-      Auxtrek IB Programme is a unique opportunity to earn income, without any investment from your side. Even if you invite only one client, you will get rewarded for every trade they place.
-      Our IB programme has no hidden limitations:
-      1.	No limit for the duration of trades.
-      2.	No limit for the number of trades.
-      3.	No limit for the volume of trades.
-      4.	No limit related to the difference between an open price and close price.
-      5.	No limit for the number of new clients you bring during a certain period.
-      We offer special marketing tools that will help you get new clients simply and efficiently. Thanks to our transparent programme, you will be able to check and monitor each client and each trade that brought you a commission."    
-  - q: How can I attach clients to my IB account?
-    a: "There are two ways a client can be attached to your IB account:
-      1.	You provide your clients with a unique IB referral link. Whenever a new client goes to our website using that link, registers his Client Area and opens a live account, you immediately see him being attached to your IB account.
-      2.	We can add an existing client under your IB account upon a written request from the client"
-  - q: What are your spreads?
-    a: "We offer floating spreads for all accounts, starting from 0.0 pips with low commissions.
-    At market opening and closing times and prior to announcements, the market spreads may widen substantially. Consequently, you must ensure that you have sufficient funds on your account to cover this." 
-  - q: How can I find/check historical data?
-    a: "You can download historical data from the MT4 trading platform, by clicking on:
-      Tools > History Centre – then choose a trading instrument and finally press the ‘Download’ button.
-      History will then be available on your trading platform, so you can click on:
-      File > Open offline > Open Offline Chart.
-      Please note that the longer the time frame, the longer the available history will be. For example, M5 history is available for 1.5 weeks, M15 history for 1 month, etc."    
-  - q: What are the limits of setting SL, TP, and TS?
-    a: You can set Stop Loss and Take Profit orders with no limits on all account types. SL and TP orders will still be active, even if your computer is switched off. The minimum Trailing Stop level is 1.5 pips or 15 points. It is possible to set only 1 trailing stop per order. You need to have the MT4 platform open to keep the trailing stop active.
-  - q: What is Auxtrek’s trade execution model?
-    a: Auxtrek International Ltd is an Labuan  FSA  regulated broker with a fully automated No Dealing Desk (NDD) execution model, providing liquidity from global, top-tier banks and hedge funds.
-  - q: What is slippage?
-    a: Auxtrek International Ltd is a NDD broker, which means that we clear our clients’ trades and retranslate quotes we get from our liquidity providers. Orders in the real market are always executed at current market prices, which is why slippage may occur in the case of a sharp movement. Please note, that during market-moving news or high volatility, the risk of slippage is higher than during normal conditions. With us, you will get both positive and negative slippages.
-  - q: What are your margin call/stop out levels?
-    a: "Our margin call / stop out levels are 100% / 50%
-    Your account may be subject to a margin call if your account equity falls to a level that is equal to the margin of your existing positions. For example, you have an open position of 1 lot on EUR/USD. The margin to hold that position is 200.
-    When you opened the account, you had a 1000 USD equity in your account. When the position starts to move against you and your account equity falls to 200 USD, you will have a margin call. But your position will not be closed yet. When your account equity falls to 50% of the required margin, then the system will close your positions immediately.
-    Taking the above example, if you open a position with 200 USD of margin and your account equity falls to 60 USD, then the system starts to close your position. If you have several positions opened, then the system closes them starting from the one with the biggest loss.
-    If, while closing the positions, your account equity reaches a level of more than 50% of the required margin, all other positions will remain open."
-  - q: What is the commission on the Pro account?
-    a: The account has a commission of $2.50 USD dollars.
-  - q: Does slippage occur in your platform?
-    a: At Auxtrek FX, slippage can occur during major news announcements, depending on the market conditions and volatility. There could be both positive and negative slippage.
+  - q: 为什么我的资金在Auxtrek FX受到保护？
+    a: Auxtrek国际有限公司由纳闽金融服务管理局（FSA）监管为证券交易商。因此，我们的内部系统符合FSA规定，这意味着您的资金将存放在单独的帐户中，以保护您的资产。
+  - q: 在AUXTREK FX进行交易有什么优势？
+    a: Auxtrek FX为您提供低点差（0.0点起）和平均0.15秒的超快执行速度。 Skrill，Neteller，FasaPay，银联和信用卡存款会立即处理，而提款会在一个工作日内处理。我们对交易没有任何限制，也没有重新报价感到自豪。我们还允许缩放，套期，套利，EA和算法。
+  - q: Auxtrek FX在哪里受到监管？
+    a: Auxtrek是Auxtrek International Ltd的商标，受纳闽金融服务管理局（FSA）监管。
+  - q: 如何将资金存入我的帐户？
+    a: 您可以使用最适合您的资金选择在客户中心内进行存款。存款不收任何费用。
+  - q: 是否允许经纪人到经纪人转移？
+    a: 我们不支持经纪人到经纪人的转账，我们仅提供标准的付款方式。
+  - q: 最低存款额是多少？
+    a: 所有帐户类型的最低存款额为100美元。但是，要获得VIP帐户，您的最低余额必须达到50,000美元。
+  - q: 我如何从我的帐户中提款？
+    a: 登录到您的客户区并填写相应的提款表。提款不收取任何费用（条件限制）。
+  - q: 多快的速度处理我的提款？
+    a: 我们将在一个工作日内处理所有提款请求。
+  - q: 资金到达我的银行帐户需要多长时间？
+    a: 我们将在一个工作日内处理所有提款请求。资金到达您的银行帐户所需的时间取决于您的银行政策。银行取款可能需要3-7个工作日才能在客户帐户中看到。信用卡/借记卡提款最多可能需要8个工作日才能在客户帐户中看到。
+  - q: 我可以通过与以前存入的付款方式不同的方式提款吗？
+    a: 我们的政策是通过您用于存款的相同方法处理提款。例如，如果您使用信用卡存入资金，则考虑到因交易而产生的任何损益，将向信用卡存入等于存款金额的金额。根据要求，我们可以通过其他付款方式以您的名义发送任何利润。（条件限制）
+  - q: 如果我有未平仓的仓位，我可以提取我的钱吗？
+    a: 如果您的交易账户没有足够的可用保证金，我们将不会执行提款请求，直到您提交更正的提款表格和/或关闭您账户上的未结仓位为止。
+  - q: 你们为介绍经纪人提供报酬吗？
+    a: "我们提供IB介绍人佣金业务，下面是它的工作原理：
+      1.	在客户区中开设一个帐户。如果您是现有客户，请输入您的帐号。
+      2.	同意客户区-IB室中的条款和条件。
+      3.	向可能希望开设帐户并开始与我们交易的潜在客户推广我们的服务。
+      4.	开始接受IB佣金。
+      I 如果要与客户共享IB链接，请注意URL链接包含cookie。 Cookies将保存您的IB信息。当您的客户完成客户区中的注册表格并开设MT4帐户时，默认情况下，您的IB代码将作为主要IB提供。
+      我们的IB合作计划：
+      客户交易账户-IB介绍人每手获得$ 2美元。
+      Auxtrek IB计划是您无需任何投资即可获得收入的独特机会。即使您只邀请一个客户，您也会因他们进行的每笔交易而获得回报。（条件限制）
+      我们的IB介绍人程序没有隐藏的限制：
+      1.	交易期限没有限制。
+      2.	交易数量没有限制。
+      3.	交易量没有限制。
+      4.	开盘价和收盘价之间的差额没有限制。
+      5.	在一定时期内您带来的新客户数量没有限制。
+      我们提供特殊的营销工具，可以帮助您简单有效地获得新客户。多亏了我们透明的计划，您将能够检查和监视为您带来佣金的每位客户和每笔交易。
+  - q: 如何将客户添加到我的IB帐户？
+    a: 可以通过两种方式将客户附加到您的IB帐户：
+      1.	您为客户提供唯一的IB推荐链接。每当新客户使用该链接访问我们的网站，注册其客户区并开设真实账户时，您都会立即看到他被附加到您的IB账户中。
+      2.	根据客户的书面请求，我们可以在您的IB帐户下添加现有客户。"
+  - q: 您的点差是多少？
+    a: "我们为所有账户提供浮动点差，点差低至0.0点。
+    在市场开放和关闭时间以及宣布之前，市场价差可能会大幅扩大。因此，您必须确保您的帐户上有足够的资金来支付这笔费用。”
+  - q: 如何查找/检查历史数据？
+    a: “您可以通过以下方式从MT4交易平台下载历史数据：
+      工具>历史记录中心–然后选择一种交易工具，最后按“下载”按钮。
+      历史记录将在您的交易平台上提供，因此您可以单击：
+      文件>离线打开>打开离线图表。
+      请注意，时间范围越长，可用历史记录就会越长。例如，M5历史记录可以使用1.5周，M15历史记录可以使用1个月，等等。”
+  - q: 设置SL，TP和TS的限制是什么？
+    a: 您可以在所有账户类型上设置止损和止盈订单，没有任何限制。即使关闭了计算机，SL和TP订单仍将处于活动状态。最低止损位为1.5点或15点。每个订单只能设置1个追踪止损。您需要打开MT4平台以保持跟踪止损处于活动状态。
+  - q: Auxtrek的交易执行模型是什么？
+    a: Auxtrek International Ltd是纳闽FSA监管的经纪人，具有全自动无交易员平台（NDD）执行模型，可提供来自全球顶级银行和对冲基金的流动资金。
+  - q: 什么是滑点？
+    a: Auxtrek International Ltd是NDD经纪人，这意味着我们清除客户的交易并重新转换从流动性提供商处获得的报价。实际市场中的订单始终以当前市场价格执行，这就是为什么在剧烈波动的情况下可能会出现滑点的原因。请注意，在市场动荡的新闻或高波动的情况下，滑倒的风险要高于正常情况下的风险。与我们一起，您将获得正向和负向滑点。
+  - q: 您的追加保证金/止损水平是多少？
+    a: "我们的追加保证金/止损水平为70％/ 20％
+    如果您的账户净值跌至等于您现有仓位保证金的水平，您的账户可能会被追加保证金通知。例如，您有1手EUR / USD的未结仓位。持有该仓位的保证金为200。
+    当您打开帐户时，您的帐户中有1000美元的净值。当持仓开始对您不利，您的帐户净值跌至200美元时，您将有追加保证金的要求。但是您的职位尚未关闭。当您的帐户净值下降到所需保证金的50％时，系统将立即关闭您的仓位。
+    以上面的示例为例，如果您开立一个保证金为200美元的仓位，而您的账户净值跌至60美元，那么系统将开始关闭仓位。如果您开设了多个仓位，那么系统将从损失最大的仓位开始平仓。
+    如果在平仓时您的帐户净值达到所需保证金的20％以上，则所有其他仓位将保持未平仓。”
+  - q: 专业账户的佣金是多少？
+    a: 该帐户的佣金为2.50美元/单边。
+  - q: 平台是否会滑点？
+    a: 在Auxtrek FX，主要新闻公告期间可能会出现滑点，具体取决于市场条件和波动性。可能存在正向和负向滑点。
 
 
 

@@ -1,28 +1,28 @@
 - image: /images/content/Trading_Conditions_forex.png
-  title: Forex
+  title: 外汇交易
   date: "&nbsp;"
-  abstract: The foreign exchange market (forex, FX, or currency market) is a worldwide, decentralised, over-the-counter market for the trading of currencies. 
+  abstract: 外汇市场（外汇，外汇或货币市场）是一个全球性，分散式，场外交易的货币交易市场。
   link:
     en : /products/forex.html
     zh : /zh/products/forex.html
 - image: /images/content/Trading Conditions-CFD245X270.png
-  title: CFD
+  title: 差价合约
   date: "&nbsp;"
-  abstract: "*CFDs are cash instruments and subject to daily financing fees and dividends."
+  abstract:  “*差价合约是现金工具，并须支付每日融资费用和股息。”
   link:
     en : /products/cfd.html
     zh : /zh/products/cfd.html
 - image: /images/content/Trading_Conditions_crypto.png
-  title: Cryptocurrency
+  title: 加密货币
   date: "&nbsp;"
-  abstract: Trade the world's newest asset class as a CFD and speculate on whether it will rise or fall in value without taking ownership of the digital asset.
+  abstract: 交易世界上最新的资产类别作为差价合约，并推测其价值将上升还是下降，而无需拥有数字资产的所有权。
   link:
     en : /products/crypto.html
     zh : /zh/products/crypto.html
 - image: /images/content/Trading_Conditions.png
-  title: Trading Conditions
+  title: 交易条件
   date: "&nbsp;"
-  abstract: Trading conditions are basic information about the products, such as leverage, spread, margin level and  market hours.
+  abstract: 交易条件是有关产品的基本信息，例如杠杆率，价差，保证金水平和市场交易时间。
   link:
     en : /resources/pdfs/trading conditions-en.pdf
     zh : /resources/pdfs/trading conditions-zh.pdf

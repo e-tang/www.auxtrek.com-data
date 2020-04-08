@@ -77,50 +77,49 @@
     desc: 欧元是欧元区使用的货币。
   - name: 执行
     desc: 执行是完成证券买入或卖出订单。有三种基本的订单执行模式：
-        1. Instant Execution
-        In this mode, the order is executed at the price offered to the broker. At sending the order to be executed, terminal sets the current prices in the order. If the broker accepts the prices, the order will be executed. If not, \"Requote\" will occur.
-        2. Execution on Request
-        In this mode, prices for a certain market order are requested from the broker before the order is sent. After the prices have been received, order at the given price can be either confirmed or rejected.
-        3. Execution by Market
-        In this mode, the broker executes the order by the price that they received from the market. Sending the order in such a mode means advance consent to its execution at this price.
-"
-  - name: Expert Advisor (EA)
-    desc: An expert advisor is a software program that analyses data and provides trader with buy and sell recommendations that fit within the trader’s strategy.
-  - name: Expiry Date
-    desc: The final day that a futures contract may trade or be closed out before rollover to next trading period.
+        1. 即时执行
+        在这种模式下，订单以提供给经纪人的价格执行。在发送要执行的订单时，终端会在订单中设置当前价格。如果经纪人接受价格，订单将被执行。
+        2. 根据要求执行
+        在这种模式下，在发送定单之前，需要从经纪人请求某个市场定单的价格。收到价格后，可以确认或拒绝给定价格的订单。
+        3. 按市场执行
+        在这种模式下，经纪人以他们从市场收到的价格执行订单。以这种方式发送订单意味着事先同意以该价格执行该订单。
+  - name: 交易机器人 (EA)
+    desc: 交易机器人 (EA)是一个软件程序，可以分析数据并为交易者提供适合其策略的买卖建议。
+  - name: 到期日
+    desc: 期货合约可以交易或被平仓的最后一天，然后再转到下一个交易期。
 - group: F
   terms: 
-  - name: First Notice Day
-    desc: The day after which a trader who has purchased a futures contract may be required to take physical delivery of the contract’s underlying commodity. First Notice Day varies by contract; it also depends on exchange rules.
-  - name: Fixed Spread
-    desc: A fixed spread is where the difference between bid and ask of a security stays the same, even while the prices themselves are changing.
-  - name: Floating Exchange Rate
-    desc: When the value of a currency is decided by the market forces dictating the supply and demand of that particular currency.
-  - name: Floating Spread
-    desc: A floating spread is where the difference between bid and ask of a security constantly changes according to market supply and demand.
-  - name: Forex
-    desc: Forex is the market in which currencies are traded.
-  - name: Free Margin
-    desc: Free margin is the difference of your account equity and the open positions’ margin.
-  - name: Fundamental Analysis
-    desc: A method of evaluating a security that entails attempting to measure its intrinsic value by examining related economic, financial and other qualitative and quantitative factors.
-  - name: Futures Contract
-    desc: A futures contract is a contractual agreement that generally trade on a futures’ exchange to purchase or sell a product at a pre-determined price in the future.
+  - name: 提前通知日
+    desc: 购买期货合约的交易者可能需要在第二天对合约的基础商品进行实物交割。提前通知日根据合同而有所不同；它也取决于交换规则。
+  - name: 固定点差
+    desc: 固定点差是指证券价格的买入和卖出之间的差异保持不变的地方。
+  - name: 浮动汇率
+    desc: 当一种货币的价值由市场力量决定该特定货币的供求关系时。
+  - name: 浮动点差
+    desc: 浮动利差是指证券的买入和卖出之间的差额根据市场供求而不断变化的差值。
+  - name: 外汇交易
+    desc: 外汇是货币交易的市场。
+  - name: 可用保证金
+    desc: 可用保证金是您的帐户净值与未平仓头寸的保证金之差。
+  - name: 基本面分析
+    desc: 一种评估证券的方法，该方法要求尝试通过检查相关的经济，金融以及其他定性和定量因素来衡量其内在价值。
+  - name: 期货合约
+    desc: 期货合约是通常在期货交易所交易以在将来以预定价格买卖产品的一种合约协议。
 - group: G
   terms: 
-  - name: Good till Cancelled (GTC)
-    desc: Good till cancelled is an order left with a broker. The order remains in place until it is cancelled by the client or filled.
-  - name: Good till Today (GTT)
-    desc: Good till today or day order is an order that if not executed on the specific day (in this case the pending order day) is automatically cancelled.
-  - name: Global Variables
-    desc: To provide prompt transfer of moderate amounts of information among experts, as well as organise conflict-free, simultaneous working of several experts.
+  - name: 取消前有效（GTC）
+    desc: 直到被取消是与经纪人一起留下的订单。订单会一直保留到客户取消或执行为止。
+  - name: 直到今天（GTT）
+    desc: 直到今天或日间订单为止的订单，如果未在特定日期（在这种情况下为待定订单日）执行，则该订单将自动取消。
+  - name: 全局变量
+    desc: 为了在专家之间迅速传递适度的信息，并组织多名专家进行无冲突的同时工作。 
 - group: H
   terms: 
-  - name: Hedging
-    desc: Hedging is a technique to reduce the risk of adverse price movements in an asset. Normally, hedging consists of taking an offsetting position in the opposite direction for the same product.
+  - name: 套期保值
+    desc: 套期保值是一种降低资产价格不利波动风险的技术。通常，对冲包括对同一产品采取相反方向的偏移位置。
 - group: I
   terms: 
-  - name: Indicators
+  - name: 指标
     desc: |
         Indicators are statistics used to measure past and current conditions as well as to forecast financial or economic trends.
         1. Economic Indicators

@@ -33,7 +33,7 @@
   - name: 买入价
     desc: 买方愿意为证券支付的最高价格。
   - name: 盈亏平衡点
-    desc: 收益等于交易头寸损失的点。
+    desc: 收益等于交易仓位损失的点。
   - name: 看涨
     desc: 市场观点认为价格会上涨。
   - name: 金条
@@ -177,23 +177,23 @@
         d. 卖出止价单
         卖出止价单是一种以等于或低于市场价格的买入价卖出的交易请求。当前价格水平高于订单中的价格。通常，此订单是在预期价格连续下跌的情况下下达的。 
 "
-  - name: Over the Counter (OTC)
-    desc: A market conducted directly between traders and principals rather than a regulated exchange trading floor.
+  - name: 场外交易(OTC)
+    desc: 直接在交易员和委托人之间进行的市场，而不是交易所场内交易大厅。
 - group: P
   terms: 
-  - name: Pip
-    desc: A pip generally means the smallest movement in forex trading. For example, AUD/USD - a move of 0.7700 to 0.7701 would be one pip. There are some exceptions, some currencies, such as Yen, one pip move would be 110.00 to 110.01.
-  - name: Position
+  - name: 基点
+    desc: 基点通常意味着外汇交易中最小的变动。例如，澳元/美元-从0.7700升至0.7701将是一个点。有一些例外情况，某些货币（例如日元）的点差为110.00至110.01。
+  - name: 仓位
     desc: |
-        A financial term for a trade that is either still able to incur a profit or a loss (open position) or has been closed (closed position), it is the way that traders aim to make a profit.
-        1. Closed Position
-        Executing a security transaction that is the exact opposite of an open position, so that profit and losses are realised and the trade is no longer active.
-        2. Open Position
-        Any trade that has been executed, but has yet to be closed.
+        仍然能够产生利润或亏损（未平仓）或已关闭（已平仓）的交易的财务条款，这是交易者旨在获利的方式。 
+        1. 平仓
+        执行与未平仓头寸完全相反的证券交易，以便实现盈亏，并且交易不再活跃。
+        2. 开仓
+        任何已经执行但尚未关闭的交易。
 - group: Q
   terms: 
-  - name: Quote
-    desc: An indicative price.
+  - name: 报价
+    desc: 一个参考价格。
 - group: R
   terms: 
   - name: Risks

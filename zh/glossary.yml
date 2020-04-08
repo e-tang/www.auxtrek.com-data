@@ -121,64 +121,61 @@
   terms: 
   - name: 指标
     desc: |
-        Indicators are statistics used to measure past and current conditions as well as to forecast financial or economic trends.
-        1. Economic Indicators
-        Statistical metrics used to measure the growth or contraction of the economy as a whole or sectors within the economy.
-        2. Technical Indicators
-        Used extensively in technical analysis to predict changes in securities’ price patterns.
-  - name: Indirect Quote
-    desc: Where the foreign currency is a variable amount and the domestic currency is fixed at one unit.
-  - name: Initial Deposit
-    desc: The smallest amount of money that an investor/trader must initially deposit into a new account.
-  - name: Initial Margin
-    desc: The deposit required by the broker before a client can trade/transact a deal to have some protection for the broker in the event of default by the client.
+        指标是用于测量过去和当前状况以及预测财务或经济趋势的统计数据。
+        1. 经济指标
+        用于度量整个经济或整个经济部门的增长或收缩的统计指标。
+        2. 技术指标
+        广泛用于技术分析中，以预测证券价格模式的变化。
+  - name: 间接报价
+    desc: 如果外币是可变金额，而本国货币固定为一个单位。
+  - name: 首次入金
+    desc: 投资者/交易商最初必须存入新帐户的最小金额。
+  - name: 初始保证金
+    desc: 在客户违约的情况下，经纪人在客户进行交易/交易之前需要的保证金，以便对经纪人有一定的保护。
 - group: K
   terms: 
-  - name: Kiwi
-    desc: Slang for the New Zealand dollar.
+  - name: 新西兰币（Kiwi）
+    desc: 新西兰货币的俚语
 - group: L
   terms: 
-  - name: Last Notice Day
-    desc: The final day that a futures contract may trade or be closed out before delivery of the underlying asset or cash settlement must occur. By the end of the last trading day, the contract holder must be prepared to accept delivery of the commodity, or settle in cash if the position is not closed.
-  - name: Leverage
-    desc: "The ratio of the transaction size to the actual investment used for margin. Leverage allows a client to trade without putting up the full amount. Instead a margin amount is required. For example, 200:1 leverage, also known as 0.5% margin requirement, meaning $500 of equity can purchase a contract worth $100,000.
-"
-  - name: Line Chart
-    desc: Line Chart is a simple chart that marks data as a series of points connected to each other by a straight line.
-  - name: Long
-    desc: Buying of a security such as a commodity or currency with the expectation that the asset will rise in value.
-  - name: Loonie
-    desc: Slang for the Canada dollar.
+  - name: 最后通知日
+    desc: 在交付基础资产或现金结算之前，必须进行期货合约交易或平仓的最后一天。在最后一个交易日结束之前，合同持有人必须准备好接受商品交付，或者如果未平仓则以现金结算。
+  - name: 杠杆
+    desc: 交易规模与用于保证金的实际投资之比。杠杆作用允许客户进行交易而无需全额支付保证金。取而代之的是保证金数额。例如，200：1的杠杆，也就是0.5％的保证金要求，则意味着$ 500的权益可以购买价值$ 100,000的合同。
+  - name: 折线图
+    desc: 折线图是一种简单的图表，将数据标记为通过直线相互连接的一系列点。
+  - name: 多单
+    desc: 购买证券或货币等证券，期望资产会升值。
+  - name: 加仑
+    desc: 加拿大元的俚语。
 - group: M
   terms: 
-  - name: Margin
-    desc: "Collateral that the holder of a position in securities, options, Forex or futures contracts, has to deposit to cover the credit risk of his counterparty. Other definitions to margin used in other areas are:
-        1. Margin Level
-"
-  - name: Margin level is the ratio of equity to margin.
-    desc: 2. Margin Call
-        A margin call is a broker's demand on an investor to deposit additional money or securities so that the margin account is brought up to the minimum maintenance margin. Margin calls occur when your account value falls below a value calculated by the broker's particular formula.
+  - name: 保证金
+    desc: 抵押证券，期权，外汇或期货合约持有人的头寸必须存入资金以支付对方的信用风险。在其他领域使用的其他保证金定义是：
+        1. 保证金比例
+  - name: 保证金比例是净值与保证金的比率。
+    desc: 2. 追加保证金
+       追加保证金是经纪人要求投资者存入额外的货币或证券，以使保证金账户达到最低维持保证金的要求。当您的帐户价值低于经纪人的特定公式所计算的值时，就会发生追加保证金通知。 
 - group: O
   terms: 
-  - name: Open, High, Low, Close Line (OHLC Line)
-    desc: OHLC is a function in AUXTREK’s MT4 trading platform to show the current price’s Open, High, Low, Close respectively, it normally appears on the left top corner in the chart window.
-  - name: One Click Trading
-    desc: "Traders on AUXTREK’s MT4 terminal can buy or sell with a single click without having to fill out clumsy or complex order tickets. Stop loss and take profit orders can be entered at the same time as the market order and pre-defined order templates can be set allowing the scaling in and out of positions at pre-defined targets.
-"
-  - name: Order
-    desc: "An order is an instruction to buy or sell on a trading venue such as a stock market, bond market, commodity market, or financial derivative market. There are two main types of orders:
-        1. Market Order
-        A market order is an order that an investor makes through a broker or brokerage service to buy or sell an investment immediately. A market order is the default option and is likely to be executed because it does not contain restrictions on the buy/sell price or the time frame in which the order can be executed.
-        2. Pending Order
-        A pending order is an order that has been entered into the trading platform, but will not be executed unless certain conditions are met.
-        a. Buy Limit Order
-        Buy Limit Order is a trade request to buy at the Ask price that is equal to or lower than the market price. The current price level is higher than the value of the order. Usually this order is placed in anticipation of a price drop followed by a rebound.
-        b. Buy Stop Order
-        Buy Stop Order is a trade request to buy at the Ask price that is equal to or higher than the market price. The current price level is lower than the value of the order. Usually this order is placed in anticipation of a continuous price rise.
-        c. Sell Limit Order
-        Sell Limit Order is a trade request to sell at the Bid price that is equal to or higher than the market price. The current price level is lower than the value in the order. Usually this order is placed in anticipation of a price rise followed by a fall back.
-        d. Sell Stop Order
-        Sell Stop Order is a trade request to sell at the Bid price that is equal to or lower than the market price. The current price level is higher than value in the order. Usually this order is placed in anticipation of a continuous price fall.
+  - name: 开，高，低，收线（OHLC线）
+    desc: OHLC是AUXTREK MT4交易平台中的一项功能，可以分别显示当前价格的开盘价，最高价，最低价和收盘价，通常显示在图表窗口的左上角。
+  - name: 一键交易
+    desc: AUXTREK的MT4终端上的交易者只需单击即可买卖，而无需填写笨拙或复杂的定单。可以在输入市价单和预定义的定单模板的同时输入止损和获利定单。设置允许在预定目标上放大和缩小位置。
+  - name: 订单
+    desc: 定单是在诸如股票市场，债券市场，商品市场或金融衍生产品市场等交易场所进行买卖的指令。定单有两种主要类型：
+        1. 市场订单
+        市场订单是投资者通过经纪人或经纪服务发出的立即购买或出售投资的订单。市价订单是默认选项，可能会执行，因为它不包含对买/卖价或订单执行时间的限制。
+        2. 挂单
+        A 挂单是已经输入到交易平台中的订单，但是除非满足某些条件，否则不会执行。
+        a. 买入限价单
+        限价买单是一种以等于或低于市场价的买价买入的交易请求。当前价格水平高于订单价格。通常，此订单是在价格下跌之后出现反弹的情况下下达的。
+        b. 买入止价单
+        买入止价单是一种以等于或高于市场价的卖价买入的交易请求。当前价格水平低于订单价格。通常，此订单是在预期价格持续上涨的情况下下达的。
+        c. 卖出限价单
+        卖出限价单是一个以等于或高于市场价格的买入价卖出的交易请求。当前价格水平低于订单中的价格。通常，此订单是在价格上涨然后回落的情况下下达的。
+        d. 卖出止价单
+        卖出止价单是一种以等于或低于市场价格的买入价卖出的交易请求。当前价格水平高于订单中的价格。通常，此订单是在预期价格连续下跌的情况下下达的。 
 "
   - name: Over the Counter (OTC)
     desc: A market conducted directly between traders and principals rather than a regulated exchange trading floor.

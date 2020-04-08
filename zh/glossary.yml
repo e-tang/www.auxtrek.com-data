@@ -1,44 +1,44 @@
 - group: A
   terms: 
-  - name: Arbitrage
-    desc: A trading strategy involving buying and selling of the same financial instrument at the same time whereby due to price differences, one can obtain a risk free profit.
-  - name: Ask Price
-    desc: The lowest price that a seller is willing to sell a security.
-  - name: At Best
-    desc: An instruction given to a dealer to buy or sell at the best rate that is currently available in the market.
-  - name: At the Price Stop-loss Order
-    desc: "A stop-loss order that must be executed since market price has hit the trigger price.
+  - name: 套利
+    desc: 一种涉及同时买卖同一金融工具的交易策略，由于价格差异，可以获得无风险的利润。
+  - name: 询问价格
+    desc: 卖方愿意出售证券的最低价格。
+  - name: 最好
+    desc: 给予经销商以市场上当前可用的最佳价格购买或出售的指令。
+  - name: 价格止损单
+    desc: 自市场价格触及触发价以来，必须执行止损指令。
 "
-  - name: Aussie
-    desc: Slang for the Australian dollar.
+  - name: 澳币
+    desc: 澳币的俚语（AUSSIE）
 - group: B
   terms: 
-  - name: Balance 余额
-    desc: Balance is the amount of your capital left with the broker. Even when there is a trade in progress, this balance amount will not fluctuate along with the floating profit or loss. If you have opened a position and liquidated it, the amount will be changed in accordance to your profit or loss amount.
-  - name: Bank Rate
-    desc: The rate at which a central bank is prepared to lend money to its domestic banking system.
-  - name: Bar Chart
-    desc: Bar charts are a type of chart that display a vertical line for each data point to describe the highest and lowest price for each period of time it represents. Furthermore, horizontal lines are used in conjunction to show the closing and opening price.
-  - name: Base Currency
-    desc: The currency in which the operating results of the bank or institution are reported.
-  - name: Basis
-    desc: The difference between the cash price and futures price.
-  - name: Basis Point
-    desc: One per cent of one per cent (0.0001). It is commonly used as a measure of unit for interest rates and other percentages in finance.
-  - name: Basis Trading
-    desc: Trading strategy where a trader takes opposite positions in the cash and futures market with the intention of profiting from favourable movements in the basis.
-  - name: Bearish
-    desc: A market view believes that prices will decline.
-  - name: Bear Market
-    desc: A market in which prices decline against a background of widespread pessimism (opposite of Bull Market).
-  - name: Bid Price
-    desc: The maximum price that a buyer is willing to pay for a security.
-  - name: Break Even Point
-    desc: The point at which gains equal to losses in trade positions.
-  - name: Bullish
-    desc: A market view believes that prices will rise.
-  - name: Bullion
-    desc: "Bullions are gold or silver that are in the form of bars and ingots of which have to be at least 99.5% pure.
+  - name: 余额
+    desc: 余额是您留给经纪人的资金量。即使进行交易，该余额也不会随浮动损益而变动。如果您已开仓并平仓，则金额将根据您的损益金额进行更改。
+  - name: 银行利率
+    desc: 中央银行准备向其国内银行系统贷款的利率。
+  - name: 条形图
+    desc: 条形图是一种图表，它为每个数据点显示一条垂直线，以描述其代表的每个时段的最高价和最低价。此外，结合使用水平线来显示收盘价和开盘价。
+  - name: 基础货币
+    desc: 报价银行或机构的报价产品或对外销售的产品。
+  - name: 基础
+    desc: 现货价格和期货价格之间的差额。
+  - name: 基点
+    desc: 万分之一（0.0001）。它通常用作衡量利率和金融其他百分比的单位。
+  - name: 基础交易
+    desc: 交易策略，指交易者在现金和期货市场中持相反立场，目的是从基准的有利变动中获利。
+  - name: 下跌
+    desc: 市场观点认为价格会下降。
+  - name: 熊市
+    desc: 市场情绪普遍悲观，对于市场未来抱有悲观情绪（与牛市相反）。
+  - name: 买入价
+    desc: 买方愿意为证券支付的最高价格。
+  - name: 盈亏平衡点
+    desc: 收益等于交易头寸损失的点。
+  - name: 看涨
+    desc: 市场观点认为价格会上涨。
+  - name: 金条
+    desc: 金条是金或银，呈条状和锭状，其纯度必须至少为99.5％。
 "
   - name: Bull Market
     desc: A market characterized by rising prices.

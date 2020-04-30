@@ -1,0 +1,13 @@
+- name: NEW CLIENTS PROMOTION
+  style: uk-alert-primary
+  link: null
+- name: EXISTING CLIENTS PROMOTION
+  style: uk-alert-success
+  link: null
+- name: IB PROMOTION
+  style: uk-alert-warning
+  link: null
+- name: EDUCATOR PROMOTION
+  style: uk-alert-danger
+  link: null     
+  

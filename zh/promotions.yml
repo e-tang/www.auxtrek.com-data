@@ -1,0 +1,12 @@
+- name: 新客户活动
+  style: uk-alert-primary
+  link: /resources/pdfs/zh/新客户活动-NEW.pdf
+- name: 老客户活动
+  style: uk-alert-success
+  link: /resources/pdfs/zh/老客户活动-NEW.pdf
+- name: IB 活动
+  style: uk-alert-warning
+  link: null
+- name: 教育者 活动
+  style: uk-alert-danger
+  link: null     

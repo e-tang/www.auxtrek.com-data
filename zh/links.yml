@@ -1,0 +1,6 @@
+promotion:
+    new-client: /resources/pdfs/zh/新客户活动-NEW.pdf
+    existing-client: /resources/pdfs/zh/老客户活动-NEW.pdf
+    ib: null
+    education: null
+test: test

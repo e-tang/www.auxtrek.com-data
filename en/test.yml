@@ -1,0 +1,4 @@
+- name: test
+  url: /example/link.hmtl
+- name: test2
+  url: /example/link2.hmtl
